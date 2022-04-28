@@ -1,7 +1,8 @@
 **It’s been a long time coming…**
 
  
-ECDesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website (www.ecdesigns.nl).
+ECDesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website: www.ecdesigns.nl.
+
 
 John Brown introduced himself on DIYAudio in 2006 with these words: "I have spent my entire life designing, repairing and building electronic equipment – electronics is my passion..." He started soldering when he was 6, fixing his dad's radio. Does that make him the Mozart of digital audio? That remains to be seen.
 

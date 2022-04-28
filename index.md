@@ -10,7 +10,7 @@ Jazz Archeologist Jan Evensmo talks about his passion for Jazz - November 2020
 
 ---
 
-**Discogs Upload**    
+**[Discogs Upload](discogs_upload)**    
 Utility to upload ablums to your Discogs collection
 
 

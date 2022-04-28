@@ -14,4 +14,10 @@ Jazz Archeologist Jan Evensmo talks about his passion for Jazz - November 2020
 Utility to upload ablums to your Discogs collection
 
 
+---
+
+**[Duke Ellington at the Sunset Ballroom](Sunset)**
+A dance date with the Duke
+
+
 

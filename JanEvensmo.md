@@ -1,6 +1,6 @@
 ![Capture](https://user-images.githubusercontent.com/33669641/165707670-b06e7fd8-fc92-48b3-99ec-bd294bd4b83c.JPG) 
 
-You may have come across Jan Evensmo's work referenced in jazz publications or liner notes or by reading his fascinating website  -http://www.jazzarcheology.com/ . I contacted him and he kindly agreed to answer a few questions:
+You may have come across Jan Evensmo's work referenced in jazz publications or liner notes or by reading his fascinating website  [Jazz Archeology](http://www.jazzarcheology.com/) . I contacted him and he kindly agreed to answer a few questions:
 
  
 

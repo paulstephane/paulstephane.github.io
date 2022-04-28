@@ -1,5 +1,5 @@
 
-**[ECDesigns PowerDAC-R Preview](PDR-Preview)**    
+**[ECDesigns PowerDAC-R](PDR-Preview)**    
 Review of a groundbreaking Digital to Analog converter - April 2021
 
 ---

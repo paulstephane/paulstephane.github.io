@@ -74,7 +74,8 @@ The method devised to “re-clock” the SPDIF data in the PowerDAC is proprieta
 The best of both worlds? Perfect galvanic isolation from the source with an optical Toslink input and high-precision re-clocking? ECDesigns claims, as a result, that the DAC should provide high immunity to the quality of the source. This is a bold claim that has been made before.
 
 
-## 1.2 Fractal DAC Architecture
+## 1.2 Fractal DAC Architecture for greater DAC accuracy
+
 
 The PowerDAC is based on an R2R ladder, but with ECD's own extended "Fractal" solution. I asked John Brown to explain this, and he was kind enough to provide the following illustrations. 
 
@@ -175,7 +176,8 @@ bit17 = 1
 
 
 
-## 1.3 Volume Control
+## 1.3 Lossless Volume Control
+
 
 The PowerDAC includes a novel amplification system with 10 volume levels (+3db each). The PowerDAC-R generates the desired output voltage by the D/A converter itself without using any amplification, buffer or attenuator circuits.
 
@@ -248,7 +250,7 @@ Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), 
 
  
 
-# 2.3 Headphone use
+# 2.3 Headphone and Speaker use
  
 
 I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 Pro, and Etymotic ER4SR. I used the short RCA to mini-jack adapter that ECDesigns sent me to connect my headphones directly to the PowerDAC-R.
@@ -256,15 +258,22 @@ I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 
 
 The PowerDAC-R was able to drive both headphones effortlessly. The volume range provided sufficient gain to reach a high level. The sound was exceptionally clear, offering a window into the recordings.
 
+With speakers, the powerDAC-R's performance is still very dependent on the rest of the analog system: cables, amplification, speakers. 
+
+I was able to compare the PowerDAC-R to the following DACs in different systems: Audiomat Tempo 2.9, Denafrips Terminator, Rockna Wavelight, Aqua La Voce S3. These comparisons were conducted with other "audiophiles" in their homes. We did not always agree on everything, but it is fair to say that the PowerDAC generated interest and left most impressed. My takeaway from all these tests is simple:  these different DACs have more in common with each other than they do with the PowerDAC. There are several reasons, I believe, for the unique sound quality of the PowerDAC-R.
+
+However, the powerDAC-R used with high quality headphones directly connected to its RCA outputs can already give us today a good idea of what to expect with the future S model and speakers. 
+
+Testing the powerDAC-R with amplification and speakers clearly showed the difference in sound quality from headphone use. Plugging headphones directly to the powerDAC-R provides a sound with a much lower level of distorstion. Of course, the result depend on the quality of the headphones used - each headphones introducing some level of distortion. Surprising results may be obtained with some headphones who’s low-level of distortion were not so obvious with conventional headphone amplifiers.
+
+  
+
+**Conclusions**
 
  
+The PowerDAC may not offer a perfectly transparent signal path - no piece of equipment ever will - but it may very well come closer to that ideal than any other audio system has to date. This minimal signal path is composed of very few components. The analog signal is directly produced from an electrical power source (linear, regulated) going through MOFSET switches and resistors. Nothing more. 
 
-**Overall sound quality of the PowerDAC-R**
 
- 
+The forthcoming S models will contain a larger number of Fractal bits, extra volume steps with a much higher maximum volume level and lower output impedance. The higher number of Fractal bits will provide even higher accuracy, and the ability to drive speakers directly from the PowerDAC's outputs will eliminate the need for traditional amplification. Exciting times ahead!
 
-There is no need for me to wax eloquent here. Listening to the PowerDAC-R really makes me think that I am getting the most out of my digital files, whether they are older recordings or newer releases. No other DAC has given me this impression so unambiguously. Everything sounds “right” – from the tone of individual musicians I am most familiar with to the dynamics of a large ensemble. Moreover, I doubt such quality has ever been offered by a product that is so affordable, so easy to use, and complete in and of itself (no tweaking required).  
 
- 
-
-I now feel I can “check off” the digital aspect of my sound system and focus on making further improvements to the analog side. 

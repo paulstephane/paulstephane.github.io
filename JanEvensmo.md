@@ -2,7 +2,7 @@ You may have come across Jan Evensmo's work referenced in jazz publications or l
 
  
 
-Q: Your website is entitled "the treasures of vintage jazz". You have written "solographies" of numerous famous or lesser known artists.  When did your passion for jazz start and how did you come to writing these solographies?
+*Q: Your website is entitled "the treasures of vintage jazz". You have written "solographies" of numerous famous or lesser known artists.  When did your passion for jazz start and how did you come to writing these solographies?*
 
  
 
@@ -10,7 +10,7 @@ It started when I was 15, and a few years later I joined the Oslo Jazz Circle, t
 
  
 
-Q: How difficult is it to find all the recordings nowadays? Have you had the opportunity to discover unpublished recordings? 
+*Q: How difficult is it to find all the recordings nowadays? Have you had the opportunity to discover unpublished recordings?*
 
  
 
@@ -18,7 +18,7 @@ Most is quite easy. Spotify has helped me a lot. But it all started with my own 
 
  
 
-Q: How many people subscribe to your website? 
+*Q: How many people subscribe to your website?*
 
  
 
@@ -26,7 +26,7 @@ Since «jazz archeology» is really something for specialists and not the ordina
 
  
 
-Q: What are you working on at the moment ? 
+*Q: What are you working on at the moment ?*
 
  
 
@@ -34,7 +34,7 @@ I need to have several artists in parallel to be able to come up with something 
 
  
 
-Q: Your solographies provide not only factual data but personal appreciation of the music. How has your taste and music appreciation evolved over the years? Do you sometimes correct earlier appreciations?
+*Q: Your solographies provide not only factual data but personal appreciation of the music. How has your taste and music appreciation evolved over the years? Do you sometimes correct earlier appreciations?*
 
  
 
@@ -42,7 +42,7 @@ Interesting question! Difficult to answer though. I know that my taste has broad
 
  
 
-Q: I understand you had the opportunity to personally know some of these great artists. Can you tell us about some of these encounters?
+*Q: I understand you had the opportunity to personally know some of these great artists. Can you tell us about some of these encounters?*
 
  
 
@@ -50,7 +50,7 @@ Well, I am doing jazz archeology, and that means so many great artists are dead 
 
  
 
-Q: Is vintage jazz at risk of being lost or forgotten ?
+*Q: Is vintage jazz at risk of being lost or forgotten ?*
 
  
 
@@ -58,7 +58,7 @@ I wish I knew. I believe jazz is so strong an art, that the results from the pas
 
  
 
-Q: Audiophile Style readers may be curious to know what audio equipment you have at home 
+*Q: Readers may be curious to know what audio equipment you have at home*
 
  
 
@@ -66,7 +66,7 @@ My audio equipment is very modest, just an amplifier, CD-player, turntable (with
 
  
 
-Q: Can you also tell us a few words about your music collection ?
+*Q: Can you also tell us a few words about your music collection ?*
 
  
 
@@ -85,7 +85,7 @@ Thanks Jan, I look forward to reading your next articles. Until then, as Jan him
 Since Jan mentioned him, we will finish this short entry with Clyde Hart accompanying on piano Roy Eldridge and Chu Berry in 1938:
 
  
-
+https://youtu.be/GRnwpSbD88I
 
  
 

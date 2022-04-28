@@ -1,6 +1,3 @@
-**It’s been a long time coming…**
-
- 
 ECDesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website: **[www.ecdesigns.nl](www.ecdesigns.nl)**.
 
 
@@ -10,148 +7,196 @@ John Brown introduced himself on DIYAudio in 2006 with these words: "I have spen
 ECDesigns’ quest to improve digital audio has led over the years to many product incarnations.
 
 
-The first product of theirs that convinced me they were doing something different was a small USB disc player, the **UPL**: a battery-operated, low-noise micro-processor playing WAV files on a USB stick with a remote control and a single Toslink output. To be played, files had to be numbered 01-99 in folders numbered 01-99. What made it worth that hassle was the impressive sound quality, a result of the minimalistic design.
-
-![UPL2](https://user-images.githubusercontent.com/33669641/165709060-a84fdf96-8052-4076-a080-24a41602db74.jpg)
-
-After using the UPL I could not go back to other digital music players and have used it since as my main music source. I have often taken it along to audiophile gatherings here in Paris. While many were truly impressed by the UPL's sound quality, the inconvenience of using it meant that very few adopted it. The UPL was also a good benchmark against which other digital sources could be evaluated.
-
- 
-
-ECDesigns’ DAC at the time – the MOS 16 – did not leave as lasting an impression as the UPL did, although it did perform quite well and was priced very reasonably.
-
- 
-
-Fast-forward to 2020, with yet another new DAC – the **DA96ETF**, aka **Fractal DAC**.
-
-
-
-![Fractal](https://user-images.githubusercontent.com/33669641/165710879-264b388a-b197-4cb4-bff4-7c2f5e836387.jpg)
-
-
-
-On this very forum, a happy few discussed it enthusiastically, offering comparisons with other – often more expensive – DACs.
-
- 
-
-One technical aspect of the DAC that I found interesting (and relatively easy to understand) is key: ECDesigns implemented a mechanism to convert the I2S signal output by the Toslink “decoder” into a parallel signal using a very low bandwidth: 100kHz as opposed to several GHz.
-
- 
-
-Why does that matter? Because lower bandwidth leaves less opportunity for interference to travel along the wiring and circuits.
-
- 
-
-John Brown recently told me: "Designing DACs is similar to designing RF (Radio Frequency) circuits...". And that is as much as I need to know.
-
- 
-
-Shortly after the release of the Fractal DAC, ECDesigns offered to retrofit this “bandwidth limiter” solution to some of the circuits in the UPL. The bandwidth limiter was not as sophisticated (and also less costly) as the one used in the DAC: it limited the bandwidth to 20 MHz from several GHz. ECDesigns sent me a second unit and I was able to compare both: sound quality had further improved, confirming the validity of their approach.  
-
- 
-
-The combination of the revised UPL with the Fractal DAC offered a level of quality in digital playback beyond anything I had heard before.
-
- 
-![DA96](https://user-images.githubusercontent.com/33669641/165711289-105da4c8-2891-4a33-a904-662eaaa31887.jpg)
-
-
- 
-
-Could all this be further improved? Could the same audio quality be obtained from any source? John and Gordon Brown went back, once again, to the drawing board.
-
- 
-
-Their newest product, the PowerDAC-R, builds and improves on these techniques while offering additional features.
-
- 
-
-**The PowerDAC-R**
-
- 
-
-
+Their newest product, the **PowerDAC-R**, builds and improves on previous products and techniques while offering additional features.
 
 ![Rack](https://user-images.githubusercontent.com/33669641/165711543-9c099ee2-24d2-457a-9187-bbaa583c7948.jpg)
 
  
-
- 
-
 The simple and slightly retro look of the PowerDAC-R appeals to me but may not please everyone. It is surprisingly small but heavy for its size, sitting firmly on its round base. The back of the unit has two RCA analog outputs, a Toslink digital input, and a USB-B plug for the power supply (5v) and firmware updates.
-
- 
 
 ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These are sold separately:
 
- 
 
 * A self-powered USB to Toslink converter, of their own design
 * An RCA to mini-jack adapter cable for connecting headphones to the PowerDAC-R
 * A Remote Control for volume control and muting (volume can be controlled otherwise with the pushbuttons on top of the unit)
  
 
- 
-
 ![Desktop with comments](https://user-images.githubusercontent.com/33669641/165711798-c8b5f0f4-d11d-47d4-9d01-d6e1614053ba.jpg)
 
+ECDesigns has published pictures and technical information about the PowerDAC-R on their website: https://www.ecdesigns.nl/info/powerdac-r
+
+# 1. Design
+
+The unique internal design is what is worthy of our attention here.Three aspects will be described in detail:
+
+1) Source immunity
+2) Fractal DAC architecture
+3) Volume control
 
 
 
- 
-
-The unique internal design is what is worthy of our attention here.
-
- 
+## 1.1 Source Immunity
 
 The PowerDAC has a single Toslink input (max 24/192kHz) like its predecessor but runs on an independent “master” clock.
-
- 
-
  
 
 ![PowerDAC](https://user-images.githubusercontent.com/33669641/165711589-56098f3a-d5d3-4f4b-9f53-52980d4d93b0.jpg)
 
 
+The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
 
- 
 
-The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary:
+*The PowerDAC-R -only- collects the data from the incoming signal and places it in RAM (Random Access Memory).  Next, the incoming sample rate is measured with a software-based frequency meter. So now the data is available, and the playback rate is determined.*
 
- 
+*Low jitter master clock (Vectron, Pletronics, -85 ... -90dB phase noise @ 10Hz) is used to generate a clean latch signal for the Fractal D/A converter. So we are -not- re-clocking a jittery clock signal and creating said radio transmitter.  We are generating a new, clean clock from scratch that will be used to latch the data (we stored in RAM) into the Fractal D/A converter.*
 
-*The incoming digital signal is buffered into a micro-controller’s random-access memory (RAM), sample rate is determined algorithmically, and parallel data is output based on timing provided by a single master clock (asynchronously).*
 
- 
+*The Fractal D/A converter does not work with I2S or other serial data interface and requires no clocks to clock in serial data because there is no serial data. All problems related to high frequency clocks and high frequency serial data are eliminated this way.*
 
-*All data transfers occur at low bandwidth (200kHz). The critical I2S interfaces (high bandwidth, powerful RF noise source) have been completely removed.*
 
- 
+*All bits are presented to the Power D/A converter simultaneously (parallel). Then we wait until all bits are stable and switching noise is completely gone (because the bits no longer change). Now one single latch pulse (derived from the low jitter master clock) will write the new sample to the D/A converter output at the moment there is minimum electrical interference. This helps to minimize trigger uncertainty and provides a clean, low jitter latch signal.*
+
+*In other words, we only have to load new data and latch this data once every sample. The highest frequency we need (data and latch) equals the sample rate (44.1 ... 192 KHz). With conventional DACs we need much higher clock and data rates, typically up to 24.576 MHz. These higher data and clock rates produce much more switching noise and because there is no radio silence during latching, jitter at the D/A conversion circuit will be rather high regardless of master clock phase noise (jitter).*
+
+*The bandwidth we need for getting data into the PowerDAC-R D/A converter is therefore only 192 KHz. This helps to keep most of the source noise that still has to enter through Toslink out of the D/A converter output signal.*
+
+*So what have we achieved with this?*
+
+*1) The single, low frequency latch signal is -completely- independent from the source and because we use professional clocks, phase noise and related jitter is very low (data sheet specifies -85 ... -90 dB phase noise @ 10Hz offset). And that is pretty good.*
+
+*Because the latch frequency is much lower than this master clock frequency, the impact of this phase noise is further reduced, this is not the case with standard DACs that need the native master clock frequency for serial data clocking.*
+
+*2) The large bandwidth noise from the source (bandwidth up to 1 GHz is required to get the data through) is band limited by the optical Toslink interface to approx. 25MHz. This minimizes the noise injection into the D/A converter. Because we can't fully block all noise, marginal source dependency remains but, in most cases, this is so little that it's a non-issue*
+
+
 
 The best of both worlds? Perfect galvanic isolation from the source with an optical Toslink input and high-precision re-clocking? ECDesigns claims, as a result, that the DAC should provide high immunity to the quality of the source. This is a bold claim that has been made before.
 
+
+## 1.2 Fractal DAC Architecture
+
+The PowerDAC is based on an R2R ladder, but with ECD's own extended "Fractal" solution. I asked John Brown to explain this, and he was kind enough to provide the following illustrations. 
+
+
+*The Fractal D/A converter is completely different from existing D/A converters as it chops up the most significant bits (the most critical one's for obtaining low bit errors) into tiny fragments. This is what the fractal circuit does. The fragmenting reduces bit errors and glitches. The downside is that we have to use more bits that represent the same bit depth (circuit gets a bit more complicated).*
+
+*An R2R DAC with  16 bits resolution can output 2ˆ16 = 65536 different analogue levels. The bits represent the following values:*
+
+bit0 = 32768
+
+bit1 = 16384
+
+bit2 = 8192
+
+bit3 = 4096
+
+bit4 = 2048
+
+bit5 = 1024
+
+bit6 = 512
+
+bit7 = 256
+
+bit8 = 128
+
+bit9  = 64
+
+bit10 = 32
+
+bit11 = 16
+
+bit12 = 8
+
+bit13 = 4
+
+bit14 = 2
+
+bit15 = 1
+
+
+*If a DAC outputs 2 Volts, the MSB ("Most Significant Bit" - bit0) would represent 1 Volt. 1 bit error represents 2 / 2ˆ16 = 30 microvolts. So in order to maintain 16 bit accuracy, the MSB voltage would need to be accurate down to at least 30 microvolts and that's very difficult to achieve with any practical circuit. The lower bits bit6 ... bit15 represent much smaller fragments of the output signal and are therefore less critical as an error here has less impact on the output signal.*
+
  
+*The Fractal converter fixes this problem by chopping up the problematic MSBs (bit0 ... bit4) into smaller fragments. The remaining bits can be converted using a R2R ladder.*
+
+*The fractal converter in the PowerDAC-R has 18 bits resolution that represents 262144 levels (auditory system absolute maximum resolution). So we start off with larger numbers:*
+
+fbit1 = 32768
+
+fbit2 = 32768
+
+fbit3 = 32768
+
+fbit4 = 32768
+
+fbit5 = 32768
+
+fbit6 = 32768
+
+fbit7 = 32768
+
+*The remaining bits are converted using R2R ladder:*
+
+
+bit3 = 16384
+
+bit4 = 8192
+
+bit5 = 4096
+
+bit6 = 2048
+
+bit7 = 1024
+
+bit8 = 512
+
+bit9  = 256
+
+bit10 = 128
+
+bit11 = 64
+
+bit12 = 32
+
+bit13 = 16
+
+bit14 = 8
+
+bit15 = 4
+
+bit16 = 2
+
+bit17 = 1
+
+
+*We now have a 22 bit fractal converter with 18 bit resolution. The advantage is that the fractal bits have less weight compared to bit0 and bit1 of a comparable R2R ladder DAC (bit0 would represent 131072).  This translates to reduced bit errors and lower glitch (glitch energy reduced from 32768 to 8192 or factor 4).  Another advantage is that we can now obtain 8 times lower output impedance with the same bit switches and resistors as the fractal resistor value is 8 times higher compared to a R2R ladder converter.  With same error introduced by a MOSFET switch (internal resistance RDSon) it will have 8 times less impact on bit accuracy.*
+
+
+
+## 1.3 Volume Control
+
+The PowerDAC includes a novel amplification system with 10 volume levels (+3db each). The PowerDAC-R generates the desired output voltage by the D/A converter itself without using any amplification, buffer or attenuator circuits.
+
+Output volume can be adjusted using either the remote control or the pushbuttons on the top of the unit. There are 10 (3db) steps, providing a total range of 27db. This translates into a voltage range of 44mV to 1.4 V rms, with a constant output impedance of 31.25 Ohms. The powerDAC-R works as an "attenuator" - the current provided by the power supply passes through a series of switches (one per "bit") and resistors that attenuate the current based on the digital signal. This is summarized in the following diagram, and is explained in further detail in their documentation:
+
+
+![mechanism](https://user-images.githubusercontent.com/33669641/165806464-b6f9171d-4249-481d-a0a9-1b16055ab0c3.JPG)
+ 
+
+The volume control can be deactivated using a jumper on the back of the unit. This results in setting the volume to its highest level (9) and deactivates the pushbuttons and remote control.
 
 ECDesigns offered me a pre-production model to beta test. I was very eager to see for myself how this PowerDAC performed on that aspect alone and find out what differences, if any, remained between a computer source and my trusted UPL.
 
  
 
-But wait, there’s more.
+
+# 2. Listening Tests
+
+## 2.1 Source Immunity
 
  
-
-The PowerDAC includes a novel amplification system with 10 volume levels (+3db each). The PowerDAC-R generates the desired output voltage by the D/A converter itself without using any amplification, buffer or attenuator circuits.
-
- 
-
-ECDesigns has published pictures and technical information about the PowerDAC-R on their website: https://www.ecdesigns.nl/en/blog/rd-powerdac
-
- 
-
-**Listening tests – source immunity**
-
- 
-
 To assess the source immunity of the PowerDAC-R, I compared several sources over a few days using both my speakers and headphones:
 
  
@@ -174,27 +219,19 @@ So I had a friend over to carry out a “blind test”. I played a well-recorded
 
 I have since been exclusively using my Intel NUC connected to the PowerDAC-R using a 1.5m Toslink cable to play music in my living room. It sounds awesome! More about this later…
 
- 
+
+When listening to the PowerDAC-R in others' systems, I always connected their high-end USB sources using ECDesign's own UT96 USB to optical converter.  This small converter is a very basic model that costs only 150€: it does not contain fancy clocks, power regulators, isolation, etc... This is clearly not a piece of equipment one would normally find in a "high-end" digital chain. Yet, during these listening sessions, it never seemed to get in the way. How could that be? I can only conclude that the PowerDAC does correct for the high-level jitter associated with a Toslink connection while benefitting from the Toslink's perfect galvanic isolation from the source. 
+
 
 I also tested the PowerDAC-R using a Farad 5-volt power supply and could find no difference in sound quality – this was not the case with the previous DA96ETF DAC. The PowerDAC requires only 200mA of power at 5v. The small linear power supply provided by ECDesigns has a “reservoir capacitance” of 18800uF. The low bandwidth data communication inside the DAC also contributes to power supply “immunity”.
 
  
 
-**Listening tests – volume control**
-
- 
-
-Output volume can be adjusted using either the remote control or the pushbuttons on the top of the unit. There are 10 (3db) steps, providing a total range of 27db. This translates into a voltage range of 44mV to 1.4 V rms, with a constant output impedance of 31.25 Ohms.
-
- 
-
-The volume control can be deactivated using a jumper on the back of the unit. This results in setting the volume to its highest level (9) and deactivates the pushbuttons and remote control.
-
+## 2.2 Volume Control
  
 
 During my listening tests, the use of the volume control never seemed to deteriorate sound quality.
 
- 
 
 To confirm these impressions, I performed a “Bolero Test” (see here: http://www.high-endaudio.com/RC-Linestages.html#BOLERO ). I used a well-recorded CD that was recorded at low volume. “For Duke” by Billy Berry and His Ellington All-Stars is a Direct to Disc recording of exceptional quality.
 
@@ -211,38 +248,15 @@ Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), 
 
  
 
-**Listening tests – headphone use**
-
+# 2.3 Headphone use
  
 
-I tested the PowerDAC-R using two headphones: Grado GH2 and Beyerdynamic DT990 Pro. I used the short RCA to mini-jack adapter that ECDesigns sent me to connect my headphones directly to the PowerDAC-R.
+I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 Pro, and Etymotic ER4SR. I used the short RCA to mini-jack adapter that ECDesigns sent me to connect my headphones directly to the PowerDAC-R.
 
- 
 
 The PowerDAC-R was able to drive both headphones effortlessly. The volume range provided sufficient gain to reach a high level. The sound was exceptionally clear, offering a window into the recordings.
 
- 
 
-I also connected the PowerDAC-R (set at max. volume) to my Hagerman Audio Tuba headphone amplifier. The presentation was slightly more “relaxed” - this could be due to some treble roll-off on the Tuba amplifier.
-
- 
-
-ECDesigns have since explained that differences in perceived sound quality between solid-state and tube amplifiers may be due to improved accuracy when driving speaker coils at “constant current” (tubes) rather than “constant voltage” (solid state). Interestingly, they are developing their own tube speaker amplifier to pair with the PowerDAC-R.
-
- 
-
-**Listening tests – comparison with the DA96ETF**
-
- 
-
-Using the UPL as a source, the PowerDAC-R outperforms the previous DA96ETF DAC. There are several reasons for this improved performance:
-
- 
-
-The DA96ETF is dependent on the source’s quality (jitter level). While the UPL, in its latest incarnation, offers a low-jitter signal to the DAC, it is not perfect – no source is.
-The DA96ETF decodes the incoming Toslink signal using a standard chip (DIR9001) that outputs I2S – as a result, I2S spectrum cannot be prevented from spreading across the DAC circuit.
-The PowerDAC-R has a much lower output impedance (31 Ohm versus 370 Ohm), which improves drive capability.
-Some adjustments have been made to the PowerDAC’s “DAC” section, now combining Fractal logic with R2R for lower bits
  
 
 **Overall sound quality of the PowerDAC-R**

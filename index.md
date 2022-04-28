@@ -1,10 +1,11 @@
-**[Jan Evensmo Interview](JanEvensmo)**    
-Jazz Archeologist Jan Evensmo
+
+**[ECDesigns PowerDAC-R Preview](PDR-Preview)**    
+Audio equipment review - April 2021
 
 ---
 
-**[ECDesigns PowerDAC-R Preview](PDR-Preview)**    
-Audio equipment review
+**[Jan Evensmo Interview](JanEvensmo)**    
+Jazz Archeologist Jan Evensmo - November 2020
 
 
 

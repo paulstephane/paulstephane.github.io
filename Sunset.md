@@ -26,7 +26,11 @@ Dance dates gives us the opportunity to hear the band in a relaxed setting, away
 
  
 
-One of the outstanding numbers is "Stardust", a feature for the trumpet of Harold "Shorty" Baker. Many of you may not know of Baker. Miles Davis was a big fan. Here is what Eddie Lambert writes about Harold Baker in his book "Duke Ellington - A Listener's Guide": 
+One of the outstanding numbers is "Stardust", a feature for the trumpet of Harold "Shorty" Baker.
+
+[![Watch the video](https://i.ytimg.com/vi/tQjO6KjxDAo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7nLzg9iwrR6B06PG2CQMBJmvcOA)](https://youtu.be/tQjO6KjxDAo)
+
+Many of you may not know of Baker. Miles Davis was a big fan. Here is what Eddie Lambert writes about Harold Baker in his book "Duke Ellington - A Listener's Guide": 
 
  
 
@@ -40,8 +44,6 @@ One of the outstanding numbers is "Stardust", a feature for the trumpet of Harol
 
 There is little material available on the internet about Baker. A lengthy piece published by the Duke Ellington Society of Sweden is available here: **[Harold Baker at DESS](https://ellington.se/wp-content/uploads/2021/01/Bulle-19-2.pdf)**
  
-
-[![Watch the video](https://i.ytimg.com/vi/tQjO6KjxDAo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7nLzg9iwrR6B06PG2CQMBJmvcOA)](https://youtu.be/tQjO6KjxDAo)
 
 Some other highlghts of the album are: the rarely recorded "Frustration" with Harry Carney on baritone saxophone; a very soulful Johnny Hodges in "Jeep's Blues" and "All of Me"; Paul Gonsalves rocking it out on "Diminuendo and Crescendo in Blue" as he probably was requested to do in every concert since the famous Newport Festival performance a year before; Clark Terry's trumpet on Perdido...
 

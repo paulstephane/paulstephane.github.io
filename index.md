@@ -16,7 +16,7 @@ Utility to upload ablums to your Discogs collection
 
 ---
 
-**[Duke Ellington at the Sunset Ballroom](Sunset)**
+**[Duke Ellington at the Sunset Ballroom](Sunset)**    
 A dance date with the Duke
 
 

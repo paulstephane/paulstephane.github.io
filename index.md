@@ -1,11 +1,11 @@
 
 **[ECDesigns PowerDAC-R Preview](PDR-Preview)**    
-Audio equipment review - April 2021
+Audio equipment review of a groundbreaking Digital to Analog converter - April 2021
 
 ---
 
 **[Jan Evensmo Interview](JanEvensmo)**    
-Jazz Archeologist Jan Evensmo - November 2020
+Jazz Archeologist Jan Evensmo talks about his passion for Jazz - November 2020
 
 
 

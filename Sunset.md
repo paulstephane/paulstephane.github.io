@@ -84,7 +84,7 @@ Nothing remains of the ballroom or the park today, and very little information i
 
  
 
-"The Northern Cambria Railroad built the first building in Sunset Park which opened January 8, 1909. The building burned down November 2, 1967. During its heyday, the park was so popular that it had its own rail line into it and extra cars were added during special holidays and events. The place featured ethnic gatherings, sporting events, dances and all kinds of entertainment with people coming from miles around. It attracted big name bands such as Tommy Dorsey, Glen Miller, Guy Lombardo and the original Inkspots. The ballroom was often transformed into a skating rink, a basketball court or gymnasium. The mammoth hall was 80 feet wide and 150 feet long with 150,000 board feet of lumber used."
+>"The Northern Cambria Railroad built the first building in Sunset Park which opened January 8, 1909. The building burned down November 2, 1967. During its heyday, the park was so popular that it had its own rail line into it and extra cars were added during special holidays and events. The place featured ethnic gatherings, sporting events, dances and all kinds of entertainment with people coming from miles around. It attracted big name bands such as Tommy Dorsey, Glen Miller, Guy Lombardo and the original Inkspots. The ballroom was often transformed into a skating rink, a basketball court or gymnasium. The mammoth hall was 80 feet wide and 150 feet long with 150,000 board feet of lumber used."
 
  
 

@@ -14,6 +14,8 @@ Their newest product, the **PowerDAC-R**, builds and improves on previous produc
  
 The simple and slightly retro look of the PowerDAC-R appeals to me but may not please everyone. It is surprisingly small but heavy for its size, sitting firmly on its round base. The back of the unit has two RCA analog outputs, a Toslink digital input, and a USB-B plug for the power supply (5v) and firmware updates.
 
+ECDesigns offered me a pre-production model to beta test. I was very eager to see for myself how this PowerDAC performed on that aspect alone and find out what differences, if any, remained between a basic computer source and dedicated audio sources.
+
 ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These are sold separately:
 
 
@@ -191,9 +193,6 @@ Output volume can be adjusted using either the remote control or the pushbuttons
 
 The volume control can be deactivated using a jumper on the back of the unit. This results in setting the volume to its highest level (9) and deactivates the pushbuttons and remote control.
 
-ECDesigns offered me a pre-production model to beta test. I was very eager to see for myself how this PowerDAC performed on that aspect alone and find out what differences, if any, remained between a computer source and my trusted UPL.
-
- 
 
 
 # 2. Listening Tests

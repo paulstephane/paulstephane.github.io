@@ -33,7 +33,7 @@ ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These
 
 ECDesigns has published pictures and technical information about the PowerDAC-R on their website: https://www.ecdesigns.nl/info/powerdac-r
 
-# 1. Design
+## 1. Design
 
 The unique internal design is what is worthy of our attention here.Three aspects will be described in detail:
 
@@ -48,7 +48,7 @@ The unique internal design is what is worthy of our attention here.Three aspects
 
 
 
-## 1.1 Source Immunity
+### 1.1 Source Immunity
 
 The PowerDAC has a **single Toslink input** (max 24/192kHz) but runs on an independent “master” clock. The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
 
@@ -80,7 +80,7 @@ The PowerDAC has a **single Toslink input** (max 24/192kHz) but runs on an indep
 The best of both worlds? Perfect galvanic isolation from the source with an optical Toslink input and high-precision re-clocking? ECDesigns claims, as a result, that the DAC should provide high immunity to the quality of the source. This is a bold claim that has been made before.
 
 
-## 1.2 Fractal DAC Architecture for greater DAC accuracy
+### 1.2 Fractal DAC Architecture for greater DAC accuracy
 
 
 The PowerDAC is based on an R2R ladder, but with ECD's own extended "Fractal" solution. I asked John Brown to explain this, and he was kind enough to provide the following illustrations. 
@@ -182,7 +182,7 @@ bit17 = 1
 
 
 
-## 1.3 Lossless Volume Control
+### 1.3 Lossless Volume Control
 
 
 The PowerDAC includes a novel amplification system with 10 volume levels (+3db each). The PowerDAC-R generates the desired output voltage by the D/A converter itself without using any amplification, buffer or attenuator circuits.
@@ -197,9 +197,9 @@ The volume control can be deactivated using a jumper on the back of the unit. Th
 
 
 
-# 2. Listening Tests
+## 2. Listening Tests
 
-## 2.1 Source Immunity
+### 2.1 Source Immunity
 
  
 To assess the source immunity of the PowerDAC-R, I compared several sources over a few days using both my speakers and headphones:
@@ -232,7 +232,7 @@ I also tested the PowerDAC-R using a Farad 5-volt power supply and could find no
 
  
 
-## 2.2 Volume Control
+### 2.2 Volume Control
  
 
 During my listening tests, the use of the volume control never seemed to deteriorate sound quality.
@@ -253,7 +253,7 @@ Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), 
 
  
 
-# 2.3 Headphone and Speaker use
+### 2.3 Headphone and Speaker use
  
 
 I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 Pro, and Etymotic ER4SR. I used the short RCA to mini-jack adapter that ECDesigns sent me to connect my headphones directly to the PowerDAC-R.

@@ -11,6 +11,6 @@ Due to Discogs limitations, one release is added per second.
 
 The program reads the folder content on Discogs and only adds releases that are not already included in the folder.
 
-Link to executables: https://drive.google.com/drive/folders/1Ov4k6z2bCK5XWiuWrUXuTs5CPoqnHDt8?usp=sharing
+[Link to executables](https://drive.google.com/drive/folders/1Ov4k6z2bCK5XWiuWrUXuTs5CPoqnHDt8?usp=sharing)
 
 Program is written with Node and uses this library: https://github.com/bartve/disconnect

@@ -80,10 +80,11 @@ Thanks Jan, I look forward to reading your next articles. Until then, as Jan him
 
 Since Jan mentioned him, we will finish this short entry with Clyde Hart accompanying on piano Roy Eldridge and Chu Berry in 1938:
 
-https://www.youtube.com/watch?v=GRnwpSbD88I
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRnwpSbD88I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Image](https://www.youtube.com/watch?v=GRnwpSbD88I/0.jpg)](hhttps://www.youtube.com/watch?v=GRnwpSbD88I) 
 
  
 
 You can find out more about Clyde Hart on Jan's site here: http://www.jazzarcheology.com/clyde-hart/
+
+
+

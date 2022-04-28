@@ -84,7 +84,7 @@ Since Jan mentioned him, we will finish this short entry with Clyde Hart accompa
 <iframe src="https://www.youtube.com/embed/Z7PExj_v-ZU"></iframe>
 </p>
 
- 
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/44oGFX0F5QBXitVzuxmFxg?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 You can find out more about Clyde Hart on Jan's site here: http://www.jazzarcheology.com/clyde-hart/
 

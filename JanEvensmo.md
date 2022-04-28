@@ -72,7 +72,8 @@ My audio equipment is very modest, just an amplifier, CD-player, turntable (with
 I never had the money to go for a really large and systematic collection. I have around 2500 CDs, 4500 LPs and 1000 78s; this is nothing compared to many people I have had contact with and who have helped me.
 
  
- 
+ ![JanEvensmo_2](https://user-images.githubusercontent.com/33669641/165706740-52016771-ac3a-4d3f-bbc7-a8122f278c7d.jpg)
+
 
 Thanks Jan, I look forward to reading your next articles. Until then, as Jan himself invariably ends his emails: "Keep Swinging" !
 

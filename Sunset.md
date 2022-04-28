@@ -1,4 +1,4 @@
-Duke Ellington's **All Star Road Band** album was recorded live at a dance in the Sunset Ballroom, in Carrolltown, PA, in June 1957.
+Duke Ellington's **[All Star Road Band](https://www.discogs.com/master/527105-Duke-Ellington-All-Star-Road-Band)** album was recorded live at a dance in the Sunset Ballroom, in Carrolltown, PA, in June 1957.
 
 It is not among his most famous, but is interesting in several aspects.
  

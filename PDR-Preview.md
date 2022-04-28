@@ -8,14 +8,10 @@ John Brown introduced himself on DIYAudio in 2006 with these words: "I have spen
 
 ECDesigns’ quest to improve digital audio has led over the years to many product incarnations.
 
- 
 
-The first product of theirs that convinced me they were doing something different was a small USB disc player, the UPL: a battery-operated, low-noise micro-processor playing WAV files on a USB stick with a remote control and a single Toslink output. To be played, files had to be numbered 01-99 in folders numbered 01-99. What made it worth that hassle was the impressive sound quality, a result of the minimalistic design.
+The first product of theirs that convinced me they were doing something different was a small USB disc player, the **UPL**: a battery-operated, low-noise micro-processor playing WAV files on a USB stick with a remote control and a single Toslink output. To be played, files had to be numbered 01-99 in folders numbered 01-99. What made it worth that hassle was the impressive sound quality, a result of the minimalistic design.
 
- 
-
-  ![UPL2](https://user-images.githubusercontent.com/33669641/165709060-a84fdf96-8052-4076-a080-24a41602db74.jpg)
-
+![UPL2](https://user-images.githubusercontent.com/33669641/165709060-a84fdf96-8052-4076-a080-24a41602db74.jpg)
 
 After using the UPL I could not go back to other digital music players and have used it since as my main music source. I have often taken it along to audiophile gatherings here in Paris. While many were truly impressed by the UPL's sound quality, the inconvenience of using it meant that very few adopted it. The UPL was also a good benchmark against which other digital sources could be evaluated.
 
@@ -25,11 +21,13 @@ ECDesigns’ DAC at the time – the MOS 16 – did not leave as lasting an impr
 
  
 
-Fast-forward to 2020, with yet another new DAC – the DA96ETF, aka Fractal DAC.
+Fast-forward to 2020, with yet another new DAC – the **DA96ETF**, aka **Fractal DAC**.
 
- 
 
- 
+
+![Fractal](https://user-images.githubusercontent.com/33669641/165710879-264b388a-b197-4cb4-bff4-7c2f5e836387.jpg)
+
+
 
 On this very forum, a happy few discussed it enthusiastically, offering comparisons with other – often more expensive – DACs.
 
@@ -54,9 +52,8 @@ Shortly after the release of the Fractal DAC, ECDesigns offered to retrofit this
 The combination of the revised UPL with the Fractal DAC offered a level of quality in digital playback beyond anything I had heard before.
 
  
+![DA96](https://user-images.githubusercontent.com/33669641/165711289-105da4c8-2891-4a33-a904-662eaaa31887.jpg)
 
- 
-![DA96](https://user-images.githubusercontent.com/33669641/165709090-1ab9a2c7-6220-41a0-8304-715a4ea2cdd1.jpg)
 
  
 
@@ -68,12 +65,13 @@ Their newest product, the PowerDAC-R, builds and improves on these techniques wh
 
  
 
-The PowerDAC-R
+**The PowerDAC-R**
 
  
 
 
-![Rack](https://user-images.githubusercontent.com/33669641/165709114-7174ff99-0f73-4fe8-a440-0941c9db90b8.jpg)
+
+![Rack](https://user-images.githubusercontent.com/33669641/165711543-9c099ee2-24d2-457a-9187-bbaa583c7948.jpg)
 
  
 
@@ -87,17 +85,17 @@ ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These
 
  
 
-A self-powered USB to Toslink converter, of their own design
-An RCA to mini-jack adapter cable for connecting headphones to the PowerDAC-R
-A Remote Control for volume control and muting (volume can be controlled otherwise with the pushbuttons on top of the unit)
+* A self-powered USB to Toslink converter, of their own design
+* An RCA to mini-jack adapter cable for connecting headphones to the PowerDAC-R
+* A Remote Control for volume control and muting (volume can be controlled otherwise with the pushbuttons on top of the unit)
  
 
  
 
+![Desktop with comments](https://user-images.githubusercontent.com/33669641/165711798-c8b5f0f4-d11d-47d4-9d01-d6e1614053ba.jpg)
 
-![Desktop with comments](https://user-images.githubusercontent.com/33669641/165709145-fc14cabb-2078-4112-ad84-295b62eb401d.jpg)
 
- 
+
 
  
 
@@ -111,7 +109,8 @@ The PowerDAC has a single Toslink input (max 24/192kHz) like its predecessor but
 
  
 
-![PowerDAC](https://user-images.githubusercontent.com/33669641/165709170-d6f11757-064a-4035-83fa-b7cdca60ef8b.jpg)
+![PowerDAC](https://user-images.githubusercontent.com/33669641/165711589-56098f3a-d5d3-4f4b-9f53-52980d4d93b0.jpg)
+
 
 
  
@@ -120,11 +119,11 @@ The method devised to “re-clock” the SPDIF data in the PowerDAC is proprieta
 
  
 
-The incoming digital signal is buffered into a micro-controller’s random-access memory (RAM), sample rate is determined algorithmically, and parallel data is output based on timing provided by a single master clock (asynchronously).
+*The incoming digital signal is buffered into a micro-controller’s random-access memory (RAM), sample rate is determined algorithmically, and parallel data is output based on timing provided by a single master clock (asynchronously).*
 
  
 
-All data transfers occur at low bandwidth (200kHz). The critical I2S interfaces (high bandwidth, powerful RF noise source) have been completely removed.  
+*All data transfers occur at low bandwidth (200kHz). The critical I2S interfaces (high bandwidth, powerful RF noise source) have been completely removed.*
 
  
 
@@ -148,35 +147,19 @@ ECDesigns has published pictures and technical information about the PowerDAC-R 
 
  
 
-Listening tests – source immunity
+**Listening tests – source immunity**
 
  
 
 To assess the source immunity of the PowerDAC-R, I compared several sources over a few days using both my speakers and headphones:
 
  
-
- 
-
-Sources
-
-Details
-
-UPL96ETL
-
-Low-noise USB key player with WAV files. ElectroTos cable with standard spdif protocol (see here: https://www.ecdesigns.nl/en/blog/upl96etl)
-
-RaspberryPi
-
-Model 4B, running Squeezelite, powered by iFi Audio iPower 5V SMPS, network through ethernet port, USB out to ECDesigns’ USB-Toslink converter
-
-Intel NUC
-
-NUC5CPYH running Daphile, powered by its standard SMPS, Toslink out from its mini-jack port
-
-CD Player
-
-Arcam FJM DV27, Toslink output
+|Sources|Details|
+| ------------- | ------------- |
+|UPL96ETL|Low-noise USB key player with WAV files. ElectroTos cable with standard spdif protocol (see here: https://www.ecdesigns.nl/en/blog/upl96etl)|
+|RaspberryPi|Model 4B, running Squeezelite, powered by iFi Audio iPower 5V SMPS, network through ethernet port, USB out to ECDesigns’ USB-Toslink converter|
+|Intel NUC|NUC5CPYH running Daphile, powered by its standard SMPS, Toslink out from its mini-jack port|
+|CD Player|Arcam FJM DV27, Toslink output|
 
  
 
@@ -196,7 +179,7 @@ I also tested the PowerDAC-R using a Farad 5-volt power supply and could find no
 
  
 
-Listening tests – volume control
+**Listening tests – volume control**
 
  
 
@@ -215,7 +198,7 @@ During my listening tests, the use of the volume control never seemed to deterio
 To confirm these impressions, I performed a “Bolero Test” (see here: http://www.high-endaudio.com/RC-Linestages.html#BOLERO ). I used a well-recorded CD that was recorded at low volume. “For Duke” by Billy Berry and His Ellington All-Stars is a Direct to Disc recording of exceptional quality.
 
  
-![ForDuke](https://user-images.githubusercontent.com/33669641/165709236-97fce187-eb1a-4c79-9340-c301739e60af.jpg)
+![ForDuke](https://user-images.githubusercontent.com/33669641/165711630-37d128cc-2813-4124-959e-57ad5345cbab.jpg)
 
  
 
@@ -227,7 +210,7 @@ Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), 
 
  
 
-Listening tests – headphone use
+**Listening tests – headphone use**
 
  
 
@@ -247,7 +230,7 @@ ECDesigns have since explained that differences in perceived sound quality betwe
 
  
 
-Listening tests – comparison with the DA96ETF
+**Listening tests – comparison with the DA96ETF**
 
  
 
@@ -261,7 +244,7 @@ The PowerDAC-R has a much lower output impedance (31 Ohm versus 370 Ohm), which 
 Some adjustments have been made to the PowerDAC’s “DAC” section, now combining Fractal logic with R2R for lower bits
  
 
-Overall sound quality of the PowerDAC-R
+**Overall sound quality of the PowerDAC-R**
 
  
 

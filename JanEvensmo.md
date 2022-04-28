@@ -20,7 +20,6 @@ Most is quite easy. Spotify has helped me a lot. But it all started with my own 
 
 *Q: How many people subscribe to your website?*
 
- 
 
 Since «jazz archeology» is really something for specialists and not the ordinary jazz amateur consumer, I have not done much marketing. My newsletter reaches around 500 people.
 
@@ -84,10 +83,27 @@ Thanks Jan, I look forward to reading your next articles. Until then, as Jan him
 
 Since Jan mentioned him, we will finish this short entry with Clyde Hart accompanying on piano Roy Eldridge and Chu Berry in 1938:
 
-<div align="center">
-  <a href="https://www.youtube.com/embed/GRnwpSbD88I"><img src="https://www.youtube.com/embed/GRnwpSbD88I/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
 
+
+  
+
+
+  
+  1
+
+Now playing
+
+  
+    
+    
+    
+  
+
+
+
+
+  
+Play all
 
  
 

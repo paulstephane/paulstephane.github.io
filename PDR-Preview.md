@@ -38,7 +38,9 @@ ECDesigns has published pictures and technical information about the PowerDAC-R 
 The unique internal design is what is worthy of our attention here.Three aspects will be described in detail:
 
 1) Source immunity
+
 2) Fractal DAC architecture
+
 3) Volume control
 
 
@@ -48,7 +50,7 @@ The unique internal design is what is worthy of our attention here.Three aspects
 
 ## 1.1 Source Immunity
 
-The PowerDAC has a single Toslink input (max 24/192kHz) but runs on an independent “master” clock. The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
+The PowerDAC has a **single Toslink input** (max 24/192kHz) but runs on an independent “master” clock. The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
 
 
 *The PowerDAC-R -only- collects the data from the incoming signal and places it in RAM (Random Access Memory).  Next, the incoming sample rate is measured with a software-based frequency meter. So now the data is available, and the playback rate is determined.*

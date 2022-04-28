@@ -20,6 +20,11 @@ ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These
 * A self-powered USB to Toslink converter, of their own design
 * An RCA to mini-jack adapter cable for connecting headphones to the PowerDAC-R
 * A Remote Control for volume control and muting (volume can be controlled otherwise with the pushbuttons on top of the unit)
+
+
+
+
+
  
 
 ![Desktop with comments](https://user-images.githubusercontent.com/33669641/165711798-c8b5f0f4-d11d-47d4-9d01-d6e1614053ba.jpg)
@@ -35,16 +40,13 @@ The unique internal design is what is worthy of our attention here.Three aspects
 3) Volume control
 
 
-
-## 1.1 Source Immunity
-
-The PowerDAC has a single Toslink input (max 24/192kHz) like its predecessor but runs on an independent “master” clock.
- 
-
 ![PowerDAC](https://user-images.githubusercontent.com/33669641/165711589-56098f3a-d5d3-4f4b-9f53-52980d4d93b0.jpg)
 
 
-The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
+
+## 1.1 Source Immunity
+
+The PowerDAC has a single Toslink input (max 24/192kHz) but runs on an independent “master” clock. The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
 
 
 *The PowerDAC-R -only- collects the data from the incoming signal and places it in RAM (Random Access Memory).  Next, the incoming sample rate is measured with a software-based frequency meter. So now the data is available, and the playback rate is determined.*

@@ -72,9 +72,6 @@ My audio equipment is very modest, just an amplifier, CD-player, turntable (with
 I never had the money to go for a really large and systematic collection. I have around 2500 CDs, 4500 LPs and 1000 78s; this is nothing compared to many people I have had contact with and who have helped me.
 
  
-
-JanEvensmo_2.thumb.jpg.f06d57876c1c1c999104637b52e8acb7.jpg
-
  
 
 Thanks Jan, I look forward to reading your next articles. Until then, as Jan himself invariably ends his emails: "Keep Swinging" !
@@ -83,27 +80,7 @@ Thanks Jan, I look forward to reading your next articles. Until then, as Jan him
 
 Since Jan mentioned him, we will finish this short entry with Clyde Hart accompanying on piano Roy Eldridge and Chu Berry in 1938:
 
-
-
-  
-
-
-  
-  1
-
-Now playing
-
-  
-    
-    
-    
-  
-
-
-
-
-  
-Play all
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRnwpSbD88I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 

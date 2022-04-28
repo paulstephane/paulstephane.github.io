@@ -1,6 +1,6 @@
 
 **[ECDesigns PowerDAC-R Preview](PDR-Preview)**    
-Audio equipment review of a groundbreaking Digital to Analog converter - April 2021
+Review of a groundbreaking Digital to Analog converter - April 2021
 
 ---
 

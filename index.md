@@ -1,6 +1,4 @@
 
-# Another Blog
-
 ### Audio Equipment
 
 **[ECdesigns PowerDAC-R](PDR-Preview)**    

@@ -207,7 +207,7 @@ To assess the source immunity of the PowerDAC-R, I compared several sources over
  
 |Sources|Details|
 | ------------- | ------------- |
-|UPL96ETL|Low-noise USB key player with WAV files. ElectroTos cable with standard spdif protocol (see here: https://www.ecdesigns.nl/en/blog/upl96etl)|
+|UPL96ETL|Low-noise USB key player with WAV files. ElectroTos cable with standard spdif protocol ([UPL Documentation](https://www.ecdesigns.nl/00dc/upl96-info.pdf))|
 |RaspberryPi|Model 4B, running Squeezelite, powered by iFi Audio iPower 5V SMPS, network through ethernet port, USB out to ECdesigns’ USB-Toslink converter|
 |Intel NUC|NUC5CPYH running Daphile, powered by its standard SMPS, Toslink out from its mini-jack port|
 |CD Player|Arcam FJM DV27, Toslink output|

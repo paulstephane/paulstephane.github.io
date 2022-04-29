@@ -1,10 +1,10 @@
-ECDesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website: **[www.ecdesigns.nl](www.ecdesigns.nl)**.
+ECdesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website: **[www.ecdesigns.nl](www.ecdesigns.nl)**.
 
 
 John Brown introduced himself on DIYAudio in 2006 with these words: "I have spent my entire life designing, repairing and building electronic equipment – electronics is my passion..." He started soldering when he was 6, fixing his dad's radio. Does that make him the Mozart of digital audio? That remains to be seen.
 
 
-ECDesigns’ quest to improve digital audio has led over the years to many product incarnations.
+ECdesigns’ quest to improve digital audio has led over the years to many product incarnations.
 
 
 Their newest product, the **PowerDAC-R**, builds and improves on previous products and techniques while offering additional features.
@@ -14,9 +14,9 @@ Their newest product, the **PowerDAC-R**, builds and improves on previous produc
  
 The simple and slightly retro look of the PowerDAC-R appeals to me but may not please everyone. It is surprisingly small but heavy for its size, sitting firmly on its round base. The back of the unit has two RCA analog outputs, a Toslink digital input, and a USB-B plug for the power supply (5v) and firmware updates.
 
-ECDesigns offered me a pre-production model to beta test. I was very eager to see for myself how this PowerDAC performed on that aspect alone and find out what differences, if any, remained between a basic computer source and dedicated audio sources.
+ECdesigns offered me a pre-production model to beta test. I was very eager to see for myself how this PowerDAC performed on that aspect alone and find out what differences, if any, remained between a basic computer source and dedicated audio sources.
 
-ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These are sold separately:
+ECdesigns sent me three additional accessories to evaluate the PowerDAC-R. These are sold separately:
 
 
 * A self-powered USB to Toslink converter, of their own design
@@ -31,7 +31,7 @@ ECDesigns sent me three additional accessories to evaluate the PowerDAC-R. These
 
 ![Desktop with comments](https://user-images.githubusercontent.com/33669641/165711798-c8b5f0f4-d11d-47d4-9d01-d6e1614053ba.jpg)
 
-ECDesigns has published pictures and technical information about the PowerDAC-R on their website: https://www.ecdesigns.nl/info/powerdac-r
+ECdesigns has published pictures and technical information about the PowerDAC-R on their website: https://www.ecdesigns.nl/info/powerdac-r
 
 ## 1. Design
 
@@ -50,7 +50,7 @@ The unique internal design is what is worthy of our attention here.Three aspects
 
 ### 1.1 Source Immunity
 
-The PowerDAC has a **single Toslink input** (max 24/192kHz) but runs on an independent “master” clock. The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECDesigns explantions:
+The PowerDAC has a **single Toslink input** (max 24/192kHz) but runs on an independent “master” clock. The method devised to “re-clock” the SPDIF data in the PowerDAC is proprietary. Here are ECdesigns explantions:
 
 
 *The PowerDAC-R -only- collects the data from the incoming signal and places it in RAM (Random Access Memory).  Next, the incoming sample rate is measured with a software-based frequency meter. So now the data is available, and the playback rate is determined.*
@@ -77,7 +77,7 @@ The PowerDAC has a **single Toslink input** (max 24/192kHz) but runs on an indep
 
 
 
-The best of both worlds? Perfect galvanic isolation from the source with an optical Toslink input and high-precision re-clocking? ECDesigns claims, as a result, that the DAC should provide high immunity to the quality of the source. This is a bold claim that has been made before.
+The best of both worlds? Perfect galvanic isolation from the source with an optical Toslink input and high-precision re-clocking? ECdesigns claims, as a result, that the DAC should provide high immunity to the quality of the source. This is a bold claim that has been made before.
 
 
 ### 1.2 Fractal DAC Architecture for greater DAC accuracy
@@ -208,7 +208,7 @@ To assess the source immunity of the PowerDAC-R, I compared several sources over
 |Sources|Details|
 | ------------- | ------------- |
 |UPL96ETL|Low-noise USB key player with WAV files. ElectroTos cable with standard spdif protocol (see here: https://www.ecdesigns.nl/en/blog/upl96etl)|
-|RaspberryPi|Model 4B, running Squeezelite, powered by iFi Audio iPower 5V SMPS, network through ethernet port, USB out to ECDesigns’ USB-Toslink converter|
+|RaspberryPi|Model 4B, running Squeezelite, powered by iFi Audio iPower 5V SMPS, network through ethernet port, USB out to ECdesigns’ USB-Toslink converter|
 |Intel NUC|NUC5CPYH running Daphile, powered by its standard SMPS, Toslink out from its mini-jack port|
 |CD Player|Arcam FJM DV27, Toslink output|
 
@@ -228,7 +228,7 @@ I have since been exclusively using my Intel NUC connected to the PowerDAC-R usi
 When listening to the PowerDAC-R in others' systems, I always connected their high-end USB sources using ECDesign's own UT96 USB to optical converter.  This small converter is a very basic model that costs only 150€: it does not contain fancy clocks, power regulators, isolation, etc... This is clearly not a piece of equipment one would normally find in a "high-end" digital chain. Yet, during these listening sessions, it never seemed to get in the way. How could that be? I can only conclude that the PowerDAC does correct for the high-level jitter associated with a Toslink connection while benefitting from the Toslink's perfect galvanic isolation from the source. 
 
 
-I also tested the PowerDAC-R using a Farad 5-volt power supply and could find no difference in sound quality – this was not the case with the previous DA96ETF DAC. The PowerDAC requires only 200mA of power at 5v. The small linear power supply provided by ECDesigns has a “reservoir capacitance” of 18800uF. The low bandwidth data communication inside the DAC also contributes to power supply “immunity”.
+I also tested the PowerDAC-R using a Farad 5-volt power supply and could find no difference in sound quality – this was not the case with the previous DA96ETF DAC. The PowerDAC requires only 200mA of power at 5v. The small linear power supply provided by ECdesigns has a “reservoir capacitance” of 18800uF. The low bandwidth data communication inside the DAC also contributes to power supply “immunity”.
 
  
 
@@ -245,18 +245,18 @@ To confirm these impressions, I performed a “Bolero Test” (see here: http://
 
  
 
-My power amplifiers (ECDesigns’ own MBV mono blocks) have three gain settings. At their lowest gain setting and with maximum volume set on the PowerDAC-R (position 9), the volume coming through my speakers was at a comfortable level. I then compared the sound with the amplifiers set at maximum gain while adjusting the PowerDAC-R’s volume control to achieve a similar sound level. I did not compare the levels exactly with a decibel meter and did not feel the need for it, as it was obvious that there was no deterioration in quality even at much lower volumes. The music sounded detailed and distortion-free even at surprisingly low volume levels.
+My power amplifiers (ECdesigns’ own MBV mono blocks) have three gain settings. At their lowest gain setting and with maximum volume set on the PowerDAC-R (position 9), the volume coming through my speakers was at a comfortable level. I then compared the sound with the amplifiers set at maximum gain while adjusting the PowerDAC-R’s volume control to achieve a similar sound level. I did not compare the levels exactly with a decibel meter and did not feel the need for it, as it was obvious that there was no deterioration in quality even at much lower volumes. The music sounded detailed and distortion-free even at surprisingly low volume levels.
 
  
 
-Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), but over a fairly narrow range (27db). If the PowerDAC-R is used with amplifiers that are too powerful for your speakers, ECDesigns suggests using fixed shunt attenuators for volume range matching.
+Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), but over a fairly narrow range (27db). If the PowerDAC-R is used with amplifiers that are too powerful for your speakers, ECdesigns suggests using fixed shunt attenuators for volume range matching.
 
  
 
 ### 2.3 Headphone and Speaker use
  
 
-I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 Pro, and Etymotic ER4SR. I used the short RCA to mini-jack adapter that ECDesigns sent me to connect my headphones directly to the PowerDAC-R.
+I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 Pro, and Etymotic ER4SR. I used the short RCA to mini-jack adapter that ECdesigns sent me to connect my headphones directly to the PowerDAC-R.
 
 
 The PowerDAC-R was able to drive both headphones effortlessly. The volume range provided sufficient gain to reach a high level. The sound was exceptionally clear, offering a window into the recordings.

@@ -1,5 +1,5 @@
 
-#
+# Another Blog
 
 ### Audio Equipment
 

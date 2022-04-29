@@ -10,7 +10,7 @@ Utility to upload ablums to your Discogs collection
 
 ---
 
-**[UPL Player](https://github.com/paulstephane/UPLPlayer)**
+**[UPL Player](https://github.com/paulstephane/UPLPlayer)**    
 Application for ECdesign's UPL
 
 ---

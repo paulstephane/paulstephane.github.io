@@ -260,7 +260,7 @@ Note: the PowerDAC-R provides sufficiently fine volume adjustments (3db steps), 
 
 I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 Pro, Etymotic ER4SR, and Sennheiser HD6XX. I used the short RCA to mini-jack adapter that ECdesigns sent me to connect my headphones directly to the PowerDAC-R.
 
-The PowerDAC-R was able to drive these headphones effortlessly. The volume range provided sufficient gain to reach a high level. The sound was exceptionally clear, offering a window into the recordings. I particularly enjoyed the Etymotic and Sennheiser with the powerDAC-R. The Etymotic has an impedance of 45 Ohm, and the Sennheiser 300 Ohm, but with still low sensitivity. The Dan Clark Aeon Noire were too difficult to drive with the powerDAC-R, but they have a much lower sensitivity.
+The PowerDAC-R was able to drive these headphones effortlessly. The volume range provided sufficient gain to reach a high level. The sound was exceptionally clear, offering a window into the recordings. I particularly enjoyed the Etymotic and Sennheiser with the powerDAC-R. The Etymotic has an impedance of 45 Ohm, and the Sennheiser 300 Ohm, but with 103db sensitivity. The Dan Clark Aeon 2 Noire were a little too difficult to drive with the powerDAC-R, but they have a much lower sensitivity (92db).
 
 ![20220430_144600](https://user-images.githubusercontent.com/33669641/166106230-877d7fe4-0454-4dbc-8bb8-18e09454e0b4.jpg)
 

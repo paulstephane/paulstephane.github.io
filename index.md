@@ -31,6 +31,6 @@ The Lake - 1969 concert performance
 **[Duke Ellington at the Sunset Ballroom](Sunset)**    
 A dance date with the Duke
 
-**[Lady Day](LadyDay)**
+**[Lady Day](LadyDay)**    
 Remembering Billie Holiday
 

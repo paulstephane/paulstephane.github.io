@@ -262,6 +262,8 @@ I tested the PowerDAC-R using several headphones: Grado GH2, Beyerdynamic DT990 
 
 The PowerDAC-R was able to drive these headphones effortlessly. The volume range provided sufficient gain to reach a high level. The sound was exceptionally clear, offering a window into the recordings. I particularly enjoyed the Etymotic and Sennheiser with the powerDAC-R. The Etymotic has an impedance of 45 Ohm, and the Sennheiser 300 Ohm, but with still low sensitivity. The Dan Clark Aeon Noire were too difficult to drive with the powerDAC-R, but they have a much lower sensitivity.
 
+![20220430_144600](https://user-images.githubusercontent.com/33669641/166106230-877d7fe4-0454-4dbc-8bb8-18e09454e0b4.jpg)
+
 With speakers, the powerDAC-R's performance is still very dependent on the rest of the analog system: cables, amplification, speakers. 
 
 I was able to compare the PowerDAC-R to the following DACs in different systems: Audiomat Tempo 2.9, Denafrips Terminator, Rockna Wavelight, Aqua La Voce S3. These comparisons were conducted with other "audiophiles" in their homes. We did not always agree on everything, but it is fair to say that the PowerDAC generated interest and left most impressed. My takeaway from all these tests is simple:  these different DACs have more in common with each other than they do with the PowerDAC. There are several reasons, I believe, for the unique sound quality of the PowerDAC-R.

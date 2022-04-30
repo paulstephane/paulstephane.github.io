@@ -20,7 +20,7 @@ Unlike Sinatra, Billie Holiday never achieved stardom during her lifetime. Her r
 There is relatively little recorded trace of her singing live in clubs (her preferred venues) or concert halls, probably due to her lack of popular appeal ? This absence (comparable to missing footage of Sugar Ray Robinson in his prime, for a sports fan), is regrettable. Most of her live material is available on this album: **[Perfect Complete Collection](https://www.discogs.com/release/6116251-Billie-Holiday-Perfect-Complete-Collection)**
 
 
-Here is one of my favorites, recorded in January 1937 - a charming short song by Irving Berlin entitled "This Year's Kisses":
+Here is one of my favorites, recorded in January 1937 - a charming short song by Irving Berlin entitled **This Year's Kisses**:
 
  
 

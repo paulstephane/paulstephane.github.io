@@ -20,10 +20,10 @@ Utility to upload ablums to your Discogs collection
 Jazz Archeologist Jan Evensmo talks about his passion for Jazz - November 2020
 
 **[Ellington's Portrait of the Lion](Portrait)**    
-From 
+Pittsburgh music workshop performance
 
 **[More Ellington Gems](TheLake)**    
-The Lake
+The Lake - 1969 concert performance
 
 
 **[Duke Ellington at the Sunset Ballroom](Sunset)**    

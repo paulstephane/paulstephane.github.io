@@ -18,4 +18,4 @@ Ellington starts off with a few introductory chords that hint to a melody, as if
 This is a brilliant homage of Ellington to the pianists that inspired him in his youth, with a perfect balance between classical and modern, that transcends any categories. As with anything published by Mosaic Records, the sound quality is good !
 
  
-https://www.youtube.com/watch?v=NUrNEwEY6wk&t=1s
+**[Second Portrait of The Lion](https://www.youtube.com/watch?v=NUrNEwEY6wk&t=1s)**

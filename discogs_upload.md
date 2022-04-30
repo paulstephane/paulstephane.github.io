@@ -1,4 +1,4 @@
-Upload releases to your Discogs Collection
+*Upload albums to your Discogs Collection*
 
 This small program can be run to upload releases to your Discogs Collection.
 Download the executable (Mac, Windows, Linux) to a folder and create a text file "releases.txt" (saved within the same folder) with the following data:

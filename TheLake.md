@@ -11,7 +11,7 @@ Check it out !
 https://storage.googleapis.com/cloudplayer/music/18%20The%20Lake.flac
 
 <audio controls="controls">
-<source src="https://storage.googleapis.com/cloudplayer/music/18%20The%20Lake.flac"/>
+<source src="https://storage.googleapis.com/cloudplayer/music/18%20The%20Lake.flac">
 <p>Your browser does not support the audio element.</p>
 </audio>
 

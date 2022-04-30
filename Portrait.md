@@ -1,4 +1,4 @@
-The Pittsburgh Jazz Festival organized on June 20, 1965 a "Jazz Piano Workshop" which was luckily recorded and issued on CD by Mosaic Records: https://www.discogs.com/Various-The-Jazz-Piano/release/5260834. 
+The Pittsburgh Jazz Festival organized on June 20, 1965 a "Jazz Piano Workshop" which was luckily recorded and issued on **[CD by Mosaic Records](https://www.discogs.com/Various-The-Jazz-Piano/release/5260834)**. 
 
 Here is a picture of the "cast" on that day:
 

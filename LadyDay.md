@@ -3,18 +3,20 @@
 In 1946 Hollywood made a film about Jazz  - "New Orleans" - and cast Billie Holiday, arguably the most influential singer in Jazz, in a secondary role as a servant.
  
 
-Yesterday, Hollywood celebrated Andra Day's depiction of Billie in the biopic "The United States vs Billie Holiday". Times have changed (though it could be argued there is still much progress to be made), but Billie Holiday is still remembered today as a "tragic" figure, somewhat obscuring her lasting contributions to American music - as exemplified by the "voice" himself, **Frank Sinatra**, who said in 1958: 
+Yesterday, Hollywood celebrated Andra Day's depiction of Billie in the biopic "The United States vs Billie Holiday". 
 
->"Billie Holiday was, and still remains, the greatest single musical influence on me. Lady Day is unquestionably the most important influence on American popular singing in the last 20 years" (quoted in John Chilton's excellent book "Billie's Blues").
+Times have changed (though it could be argued there is still much progress to be made), but Billie Holiday is still remembered today as a "tragic" figure, somewhat obscuring her lasting contributions to American music - as exemplified by the "voice" himself, **Frank Sinatra**, who said in 1958 (quoted in John Chilton's book "Billie's Blues"): 
+
+>Billie Holiday was, and still remains, the greatest single musical influence on me. Lady Day is unquestionably the most important influence on American popular singing in the last 20 years.
  
 
 Unlike Sinatra, Billie Holiday never achieved stardom during her lifetime. Her recordings were never best-sellers. It is hard to believe when listening to her wonderful recording sessions during her prime, starting with the famous Teddy Wilson small group sessions. In these sessions, Billie Holiday is one of the many "soloists", and her singing is often limited to a few verses - the 78 format obviously limiting the duration to 3 minutes.
  
 
-There is  little recorded trace of her singing live in clubs (her preferred venues) or concert halls, probably due to her lack of popular appeal ? This absence (comparable to missing footage of Sugar Ray Robinson in his prime, for a sports fan), is regrettable.
+There is relatively little recorded trace of her singing live in clubs (her preferred venues) or concert halls, probably due to her lack of popular appeal ? This absence (comparable to missing footage of Sugar Ray Robinson in his prime, for a sports fan), is regrettable. Most of her live material is available on this album: **[Perfect Complete Collection](https://www.discogs.com/release/6116251-Billie-Holiday-Perfect-Complete-Collection)**
 
 
-Here is one of my favorites, recorded in January 1937 - a charming short song by Irving Berlin. Here are the lyrics:
+Here is one of my favorites, recorded in January 1937 - a charming short song by Irving Berlin entitled "This Year's Kisses":
 
  
 

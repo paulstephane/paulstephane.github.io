@@ -24,15 +24,15 @@ Here is one of my favorites, recorded in January 1937 - a charming short song by
 
  
 
-*This year's crop of kisses*
-*Don't seem as sweet to me*
-*This year's crop just misses*
-*What kisses used to be*
-*This year's new romance*
-*Doesn't seem to have a chance*
-*Even helped by Mr. Moon above*
-*This year's crop of kisses is not for me*
-*For I'm still wearin' last year's love.*
+*This year's crop of kisses*    
+*Don't seem as sweet to me*    
+*This year's crop just misses*    
+*What kisses used to be*    
+*This year's new romance*    
+*Doesn't seem to have a chance*    
+*Even helped by Mr. Moon above*    
+*This year's crop of kisses is not for me*    
+*For I'm still wearin' last year's love.*    
 
  
 This is her first recording with Lester Young. He sets the mood after a brief piano introduction by Teddy Wilson. Following her vocals, Wilson has a solo, followed by a very nice trumpet solo by Buck Clayton, another of her favorite accompaniests. The all-star cast is also composed of Benny Goodman blowing in the background, and a rhythm section with Freddie Green on guitar, Walter Page on bass, and Jo Jones on drums.

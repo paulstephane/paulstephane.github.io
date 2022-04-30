@@ -8,6 +8,6 @@ Ellington never ceases to amaze and suprise me. Witness this short piece, releas
 
 Check it out ! 
 
-https://storyvillerecords.bandcamp.com/track/the-lake
+**[Storyville records on Bandcamp](https://storyvillerecords.bandcamp.com/track/the-lake)**
 
 Some background on the "The River" suite can be found **[here](https://www.laphil.com/musicdb/pieces/3822/the-river-suite?)**

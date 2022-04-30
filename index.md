@@ -21,6 +21,9 @@ Jazz Archeologist Jan Evensmo talks about his passion for Jazz - November 2020
 
 **[Ellington's Portrait of the Lion](Portrait)**
 
+**[More Ellington Gems](TheLake)**
+The Lake
+
 
 **[Duke Ellington at the Sunset Ballroom](Sunset)**    
 A dance date with the Duke

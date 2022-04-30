@@ -19,6 +19,7 @@ Utility to upload ablums to your Discogs collection
 **[Jan Evensmo Interview](JanEvensmo)**    
 Jazz Archeologist Jan Evensmo talks about his passion for Jazz - November 2020
 
+**[Ellington's Portrait of the Lion](Portrait)**
 
 
 **[Duke Ellington at the Sunset Ballroom](Sunset)**    

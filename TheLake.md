@@ -10,3 +10,4 @@ Check it out !
 
 https://storyvillerecords.bandcamp.com/track/the-lake
 
+Some background on the "The River" suite can be found **[here](https://www.laphil.com/musicdb/pieces/3822/the-river-suite?)**

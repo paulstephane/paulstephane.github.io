@@ -10,6 +10,10 @@ Times have changed (though it could be argued there is still much progress to be
 >Billie Holiday was, and still remains, the greatest single musical influence on me. Lady Day is unquestionably the most important influence on American popular singing in the last 20 years.
  
 
+![25tmag-11arena-sinatra-2-jumbo](https://user-images.githubusercontent.com/33669641/166098337-48939448-a600-46c2-93e3-58e380dd76ce.jpg)
+
+
+
 Unlike Sinatra, Billie Holiday never achieved stardom during her lifetime. Her recordings were never best-sellers. It is hard to believe when listening to her wonderful recording sessions during her prime, starting with the famous Teddy Wilson small group sessions. In these sessions, Billie Holiday is one of the many "soloists", and her singing is often limited to a few verses - the 78 format obviously limiting the duration to 3 minutes.
  
 

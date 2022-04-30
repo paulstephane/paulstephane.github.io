@@ -1,3 +1,8 @@
+
+![cover](https://user-images.githubusercontent.com/33669641/166097504-4b30c286-e058-48cc-b0e4-ce0165ac54cf.jpg)
+
+
+
 Ellington never ceases to amaze and suprise me. Witness this short piece, released by Storyville earlier this year: "The Lake", part of his suite "The River", and performed at the end of a 1969 concert. Here are the Storyville notes: 
 
  

@@ -28,9 +28,11 @@ Dance dates gives us the opportunity to hear the band in a relaxed setting, away
 
 One of the outstanding numbers is "Stardust", a feature for the trumpet of Harold "Shorty" Baker.
 
-[![Watch the video](https://i.ytimg.com/vi/tQjO6KjxDAo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7nLzg9iwrR6B06PG2CQMBJmvcOA)](https://youtu.be/tQjO6KjxDAo)
+**[Stardust on YouTube](https://youtu.be/tQjO6KjxDAo)**
 
-Many of you may not know of Baker. Miles Davis was a big fan. Here is what Eddie Lambert writes about Harold Baker in his book "Duke Ellington - A Listener's Guide": 
+
+
+Harold Baker is unfortuantely now forgotten. Miles Davis was a big fan. Here is what Eddie Lambert writes about Harold Baker in his book "Duke Ellington - A Listener's Guide": 
 
  
 

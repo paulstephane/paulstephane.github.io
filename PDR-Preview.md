@@ -264,6 +264,7 @@ The PowerDAC-R was able to drive these headphones effortlessly. The volume range
 
 ![20220430_144600](https://user-images.githubusercontent.com/33669641/166106230-877d7fe4-0454-4dbc-8bb8-18e09454e0b4.jpg)
 
+
 With speakers, the powerDAC-R's performance is still very dependent on the rest of the analog system: cables, amplification, speakers. 
 
 I was able to compare the PowerDAC-R to the following DACs in different systems: Audiomat Tempo 2.9, Denafrips Terminator, Rockna Wavelight, Aqua La Voce S3. These comparisons were conducted with other "audiophiles" in their homes. We did not always agree on everything, but it is fair to say that the PowerDAC generated interest and left most impressed. My takeaway from all these tests is simple:  these different DACs have more in common with each other than they do with the PowerDAC. There are several reasons, I believe, for the unique sound quality of the PowerDAC-R.

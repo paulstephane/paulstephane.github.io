@@ -37,5 +37,5 @@ Here is one of my favorites, recorded in January 1937 - a charming short song by
  
 This is her first recording with Lester Young. He sets the mood after a brief piano introduction by Teddy Wilson. Following her vocals, Wilson has a solo, followed by a very nice trumpet solo by Buck Clayton, another of her favorite accompaniests. The all-star cast is also composed of Benny Goodman blowing in the background, and a rhythm section with Freddie Green on guitar, Walter Page on bass, and Jo Jones on drums.
 
-**[This Year's Kisses - YouTube](https://www.youtube.com/watch?v=vkKc5fd56K8&t=190s)**
+**[This Year's Kisses - YouTube](https://youtu.be/nFgNSdV0giI)**
  

@@ -1,4 +1,4 @@
-The Pittsburgh Jazz Festival organized on June 20, 1965 a "Jazz Piano Workshop" which was luckily recorded and issued on **[CD by Mosaic Records](https://www.discogs.com/Various-The-Jazz-Piano/release/5260834)**. 
+The Pittsburgh Jazz Festival organized on June 20, 1965 a "Jazz Piano Workshop" which was luckily recorded and has been re-issued on **[CD by Mosaic Records](https://www.discogs.com/Various-The-Jazz-Piano/release/5260834)**. 
 
 Here is a picture of the "cast" on that day:
 
@@ -11,6 +11,9 @@ Ellington plays two numbers (in addition to a duo with Earl Hines): a spirited v
 
 The first "Portrait of the Lion" was originally recorded in 1939 with the full band. This second portrait has little in common with the first. There are a few other performances of The Second Portrait recorded in concert (Paris, Italy and Denamark, 1967), but in shorter versions. This one is 4 minutes long, and fascinating. 
 
+In the original liner notes to the LP, Billy Taylor writes:
+
+>Duke Ellington acknowledged his debt to, and appreciation for, Willie ”The Lion” on this occasion by playing an original piece called ”The Second Portrait of the Lion” in which he clearly demonstrated the fact that jazz is a wonderful way to say one thing to an audience and something completely different to a group of pianists assembled backstage. With a brief nod to Willie’s great contribution to “stride” piano, Duke also commented musically on Willie´s love for beautiful harmonic patterns using rubato. He amused the pianists with his usage of Willie’s favorite devices and fascinated the audience by painting this portrait with the piano instead of the band as they have come to expect.
 
 Ellington starts off with a few introductory chords that hint to a melody, as if he had just sat down to compose. Humming along (as The Lion often did), he jumps into a very "classical" stride theme, which he then proceeds to "deconstruct" only to jump back into the same stride theme a second time, to "deconstruct" it once again but this time moving into a slower solo (at 1:40) that lasts for over a minute and a half (up to 3:00). In this long interlude, Ellington is exploring: he hints back to the stride theme at various points, leads us into different melodies, constantly changing, as if he were composing "live" (this was certainly improvised) - everything is in motion. The stride theme is then played a third time, but this time ends in a series of chords (at 3:15) that sets us up for another slow ending, more coherent, poised, and in which the stride theme seems perfectly merged into the slow melody, as if to say that the pianist had succeeded in this transformation and found his inspiration and peace.
 

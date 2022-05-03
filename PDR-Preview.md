@@ -1,6 +1,4 @@
----
-title: ECdesigns PowerDAC-R review
----
+
 
 *April 2021*
 

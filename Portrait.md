@@ -5,6 +5,9 @@ Here is a picture of the "cast" on that day:
  
 ![17569-840](https://user-images.githubusercontent.com/33669641/166096602-4e430130-e591-41ea-8a66-b66de5f78e6b.jpg)
 
+[Festival history](https://sites.google.com/site/pittsburghmusichistory/music-festivals/Pittsburgh-jazz-festival)
+
+
 Ellington plays two numbers (in addition to a duo with Earl Hines): a spirited version of "Take the A Train", with bass and drum accompaniment, and another piece "The Second Portrait of the Lion", an homage to Willie "The Lion" Smith, who was also performing that day. This is the outstanding piece on the album.
 
  

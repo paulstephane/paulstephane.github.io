@@ -35,6 +35,6 @@ A dance date with the Duke
 Remembering Billie Holiday
 
 
-
+---
 
 Questions or comments: contact me at paulstephanegithub@gmail.com

@@ -34,3 +34,7 @@ A dance date with the Duke
 **[Lady Day](LadyDay)**    
 Remembering Billie Holiday
 
+
+
+
+Questions or comments: contact me at paulstephanegithub@gmail.com

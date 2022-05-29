@@ -49,7 +49,7 @@ One of my desert island albums is Lester Young and Teddy Wilson's 1956 [Jazz Gia
 
 ![thumb](https://user-images.githubusercontent.com/33669641/170864456-c38d25b9-45e6-4efb-8910-9b561190511b.jpg)
 
-I must have run through my entire record collection. On [Muddy Waters Live](https://en.wikipedia.org/wiki/Muddy_%22Mississippi%22_Waters_%E2%80%93_Live), the system conveys the "club" atmosphere of the recording, as we can hear the faint sounds of the public drinking and cheering, and "see" (locate) all the players performing on stage in front of us.
+I must have run through my entire record collection. On [Muddy Waters Live](https://en.wikipedia.org/wiki/Muddy_%22Mississippi%22_Waters_%E2%80%93_Live), the system really conveys the "club" atmosphere of the recording, as we can hear the faint sounds of the public drinking and cheering, and "see" (locate) all the players performing on stage in front of us. The instruments sound natural, and Muddy Water's voice is heard with great realism.
 
 ![thumb](https://user-images.githubusercontent.com/33669641/170866731-f278693b-6319-467d-83cd-bd7ae11e238d.jpg)
 

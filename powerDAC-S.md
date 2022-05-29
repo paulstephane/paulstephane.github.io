@@ -67,6 +67,6 @@ I did struggle with speaker placement, and am still not sure I have found an opt
 
 The output power of the powerDAC-S is limited to 4 Watts per channel. This may be problematic for those who listen to music at high volumes. If you need to listen to a symphony at a volume comparable to a front-row concert seat, then this system is not for you.
 
-Listening recently to a "high-end" system - 40.000€ speakers in a well-treated room - I was impressed by its "clean" and wide sound. But it lacked, to my ears, the exquisite transparency and accuracy of the ECD system that pulls me in completly to the music. That system could play well at very high volumes but something else was lacking, something I know I can enjoy with the powerDAC-S/open baffles. We all have different tastes and needs. 
+Listening recently to a "high-end" system - 45.000€ speakers (yes, there is such a thing) in a well-treated room - I was impressed by its "clean" and wide sound. But it lacked, to my ears, the exquisite transparency and accuracy of the ECD system that pulls me in completly to the music. That system could play well at very high volumes but something else was lacking, something I know I can enjoy with the powerDAC-S/open baffles. We all have different tastes and needs. 
 
 Hopefully, this short review will have conveyed a sense of what can be expected from the powerDAC-S and its companion speakers. 

@@ -36,11 +36,17 @@ ECDesigns was very helpful in answering all my questions and made a few valuable
 
 The size of the front baffle and speaker positioning was determined based on the well known IEC baffle model. The side panels serve a dual purpose: they add rigidity to the front baffle, minimizing vertical movement of the drivers, and improve the bass response.
 
+
+![20220307_210233](https://user-images.githubusercontent.com/33669641/170864492-2885280e-602c-49e6-851e-5e3aa1135957.jpg)
+
 The results far exceeded my expectations.
 
 The combination of the powerDAC-S and open baffle speakers provide a level of transparency into the recording that I have simply never heard in the many audio systems that I have listened to, regardless of their price. Instruments are heard with what can be described as full, natural tones and timbre. The sound is refined, dynamic, and the musical picture presented is intricate yet cohesive. As a result, there is a sense of "intimacy" with the recording that leaves a lasting impression! 
 
 Audiophile recordings sound impressive, but even lesser recordings shine through this system. Here is a Qobuz playlist of some of my favorite jazz recordings: https://play.qobuz.com/playlist/8990336. They all sound terrific through the powerDAC-S/open baffles. One of my desert island albums is Lester Young and Teddy Wilson's 1956 "Jazz Giants". Jan Evnesmo, author of a masterful solography of Lester Young describes this recording with the following words: "During two hectic days Prez has found his final, true indian summer, never again to play like this!". Listening to this timeless music on the powerDAC-S and open baffles, I feel I am in the presence of these old masters - behind the solid groove and swing of the rhtym section, Lester Young's saxophone sounds incredibly vivid yet delicate. 
+
+
+![thumb](https://user-images.githubusercontent.com/33669641/170864456-c38d25b9-45e6-4efb-8910-9b561190511b.jpg)
 
 As a side note, listening to such recordings on this system may lead one to reconsider the tradeoffs between digital and analogue... My turntable is now only used to listen to those recordings that are simply not available in a digital format. As with the powerDAC-R, the powerDAC-S offers all these wonderful sounds with even a basic source (CD player, PC...).
 

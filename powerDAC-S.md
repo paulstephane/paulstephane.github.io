@@ -26,7 +26,9 @@ ECDesigns does not sell these open baffle speakers. They provide the [specificat
 
 I was hesitant to take on this project, as I am not an experienced DIYer: sourcing the wood, getting it cut, assembling it, seemed like quite a challenge.
 
-Moreover, as ECDesigns explains in their documentation, "In contrast to “boxed” speakers, open baffle speakers emit sound to both front and rear of the speaker into the room. This makes open baffle speakers less easy to setup than “boxed” speakers. Sound that is transmitted from front can interfere with (delayed) sound from rear and can sometimes cause unwanted resonances in audio frequency range. Most of these resonances are in the lower frequency range and often interact with the room...." concluding that "In reality this means that you will probable need to experiment with different speaker placements in your room, you might also need to use some kind of dampening on inner sides of the speaker or on some parts of your wall/room."
+Moreover, as ECDesigns explains in their documentation:
+
+>"In contrast to “boxed” speakers, open baffle speakers emit sound to both front and rear of the speaker into the room. This makes open baffle speakers less easy to setup than “boxed” speakers. Sound that is transmitted from front can interfere with (delayed) sound from rear and can sometimes cause unwanted resonances in audio frequency range. Most of these resonances are in the lower frequency range and often interact with the room ... In reality this means that you will probable need to experiment with different speaker placements in your room, you might also need to use some kind of dampening on inner sides of the speaker or on some parts of your wall/room."
 
 My living room is long (11 meters) but fairly narrow (between 3.5 and 4 meters wide) and has a fairly low ceiling (2.5 meters) typical of modern constructions - I have no special acoustic treatment installed. How would these giant speakers perform in my home?
 

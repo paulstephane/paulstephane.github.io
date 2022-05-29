@@ -1,4 +1,4 @@
-This review should be read as a follow up to my previous [review of ECdesigns' powerDAC-R](/PDR-Preview).
+This review should be read as a follow up to my previous [review of ECdesigns' powerDAC-R](/PDR-Preview.md).
 
 That first review introduced the reader to ECdesigns' approach and "philosophy", and provided a lot of background technical information, but was brief when it comes to sonic impressions. All truth be told, the powerDAC-R left me a little frustrated. As ECdesigns explains, and most audiophiles know well, the end result of an audio system is the product of all its compenents. However well a DAC performs, the sound you hear depends as much on the quality of the amplifier and speaker it is paired with.
 

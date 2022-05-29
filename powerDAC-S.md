@@ -45,9 +45,15 @@ The combination of the powerDAC-S and open baffle speakers provide a level of tr
 
 Audiophile recordings sound impressive, but even lesser recordings shine through this system. Here is a Qobuz playlist of some of my favorite jazz recordings: https://play.qobuz.com/playlist/8990336. They all sound terrific through the powerDAC-S/open baffles. 
 
-One of my desert island albums is Lester Young and Teddy Wilson's 1956 [Jazz Giants](https://en.wikipedia.org/wiki/The_Jazz_Giants_%2756). Jan Evnesmo, author of a masterful solography of Lester Young describes this recording with the following words: "During two hectic days Prez has found his final, true indian summer, never again to play like this!". The stage is set, and we cannot help but feel some nostalgia when listening to these fine players, together perhaps for a last time. Behind the delicate groove set by the rhtym section, Lester Young's saxophone sounds incredibly vivid, and we can grasp all the subtelties of his craft and the emotions he conveys. We gain a better understanding of the music and even greater respect and admiration for these masters. That's what its all about...
+One of my desert island albums is Lester Young and Teddy Wilson's 1956 [Jazz Giants](https://en.wikipedia.org/wiki/The_Jazz_Giants_%2756). Jan Evnesmo, author of a masterful solography of Lester Young describes this recording with the following words: "During two hectic days Prez has found his final, true indian summer, never again to play like this!". The stage is set, and we cannot help but feel some nostalgia when listening to these fine players, together perhaps for a last time. Behind the delicate groove set by the rhtym section, Lester Young's saxophone sounds incredibly vivid, and we can grasp all the subtelties of his craft and the emotions he conveys. We gain a better understanding of the music and even greater respect and admiration for these masters. 
 
 ![thumb](https://user-images.githubusercontent.com/33669641/170864456-c38d25b9-45e6-4efb-8910-9b561190511b.jpg)
+
+I must have run through my entire record collection. On [Muddy Waters Live](https://en.wikipedia.org/wiki/Muddy_%22Mississippi%22_Waters_%E2%80%93_Live), the system conveys the "club" atmosphere of the recording, as we can hear the faint sounds of the public drinking and cheering, and "see" (locate) all the players performing on stage in front of us.
+
+![thumb](https://user-images.githubusercontent.com/33669641/170866731-f278693b-6319-467d-83cd-bd7ae11e238d.jpg)
+
+That's what its all about...
 
 As a side note, listening to such recordings on this system may lead one to reconsider the tradeoffs between digital and analogue... My turntable is now only used to listen to those recordings that are simply not available in a digital format. As with the powerDAC-R, the powerDAC-S offers all these wonderful sounds with even a basic source (CD player, PC...).
 

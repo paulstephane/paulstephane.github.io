@@ -57,7 +57,7 @@ That's what it's all about.
 
 As a side note, listening to such recordings on this system may lead one to reconsider the tradeoffs between digital and analogue. My turntable is now only used to listen to those recordings that are simply not available in a digital format. As with the powerDAC-R, the powerDAC-S offers all these wonderful sounds with even a basic source (CD player, PC...).
 
-In an attempt to convey my enthusiasm for this system, and at the request of some, I made several video recordings of the system using my phone - they can be heard on my YouTube channel: https://www.youtube.com/channel/UCPVDgLqppDuwi3k9EGuw42g. In spite of the poor quality of the recording, one can perhaps get an idea of the type of sound to expect when listening to the system live.
+In an attempt to convey my enthusiasm for this system, and at the request of some, I made several video recordings of the system using my phone - they can be heard on my [YouTube channel](https://www.youtube.com/channel/UCPVDgLqppDuwi3k9EGuw42g). In spite of the poor quality of the recording, one can perhaps get an idea of the type of sound to expect when listening to the system live.
 
 Listening to the speakers using other amplifiers (a Lavardin ITX, a Purifi amplifier) gave good results but not as satisfying as when played through the powerDAC-S.
 

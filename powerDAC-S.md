@@ -57,7 +57,7 @@ Listening to the speakers using other amplifiers (a Lavardin ITX, a Purifi ampli
 
 Is the system perfect ? No system is.  Some speakers may offer deeper bass. With complex crossovers or DSP, a ruler flat frequency response can be obtained with some speakers, but at the expense of some other forms of distorsion. One can read about diffraction in open baffles, or the theoretical disadvantages of line arrays - all a source of much anxiety for audiophiles in search of perfection. Every system makes some compromises - one has to decide which aspects of sound reproduction are most significant - the answer may vary according to each listener.
 
-I did struggle with speaker placement, and am still not sure I have found an optimal solution (I am considering some acoustic treatment in my room). Unless your room has terrible acoustics, the optimization of speaker placement should be seen as added bonus, not as a pre-requisite for musical enjoyment.
+I did struggle with speaker placement, and am still not sure I have found an optimal solution (I am considering some acoustic treatment in my room). Unless your room has terrible acoustics, the optimization of speaker placement should be seen as added bonus, not as a pre-requisite for musical enjoyment. Different speaker placements will affect how the sound interacts with the room, and the quality of stereo imaging.
 
 The output power of the powerDAC-S is limited to 4 Watts per channel. This may be problematic for those who listen to music at loud volumes. If you need to listen to a symphony at the volume level of a front-row concert seat, then this system is not for you.
 

@@ -1,8 +1,8 @@
 
 ### Audio Equipment
 
-**[ECdesigns PowerDAC-S and Open Baffle Speakers](PDR-Preview)**    
-
+**[ECdesigns PowerDAC-S and Open Baffle Speakers](powerDAC-S)**    
+ECdesigns's take on High Fidelity in a speaker system - May 2022
 
 **[ECdesigns PowerDAC-R](PDR-Preview)**    
 Review of a groundbreaking Digital to Analog converter and headphone amplifier - April 2021

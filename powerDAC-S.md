@@ -10,7 +10,7 @@ When ECdesigns suggested I test their new model, the powerDAC-S, I was excited t
 
 One can refer to their [documentation](https://www.ecdesigns.nl/00dc/powerdac-s.pdf) to understand how the powerDAC-S works and why it is so unique. It is designed along the same lines as the powerDAC-R but offers higher output power and the ability to drive speakers directly. The devil is in the details, and designing what seems like a minimal system is in fact quite complex. But to put it simply, one can view the powerDAC-S as a "straight wire with attenuation" (to paraphrase the "straight wire with gain" ideal system that audiophiles dream about). One will not find any other system with such a minimalistic design and so few components in the signal path.
 
-When I first received the powerDAC-S (which I purchased at full retail price - it is worth mentioning that I am a regular customer), I used it with my modest (i.e. not "high-end") Davis Courbet 4 speakers. The benefits of removing my amplifier (a Lavardin ITX) from the syteme were evident; directly connecting the powerDAC-S to the speakers offered a more natural sound. Yet, I felt things could be taken even further. Listening to the powerDAC-S with a variety of other (often more expensive) speakers did not convince me either that all the potential of the powerDAC-S was being realized.
+When I first received the powerDAC-S (which I purchased at full retail price - it is worth mentioning that I am a regular customer), I used it with my modest (i.e. not "high-end") Davis Courbet 4 speakers. The benefits of removing my amplifier (a Lavardin ITX) from the system were evident; directly connecting the powerDAC-S to the speakers offered a more natural sound. Yet, I felt things could be taken even further. Listening to the powerDAC-S with a variety of other (often more expensive) speakers did not convince me either that all the potential of the powerDAC-S was being realized.
 
 It should be noted that the powerDAC-S can be used to drive headphones that require more power than the smaller "R" model can provide - my previous review adressed headphone listening with the powerDAC-R and I chose to focus my attention here on the powerDAC-S' use with speakers, which is my preferred listening mode.
 
@@ -18,7 +18,7 @@ ECDesigns suggests pairing the powerDAC-S with speakers of their own design. The
 
 ECDesigns sent me a few more comments to explain why they chose these speakers:
 
->"We selected this specific speaker as it has very low distortion and a flat SPL (very rare for an 8" full range speaker). We used an 8" speaker because it offers a large membrane surface area = higher resolution. This driver has a membrane made from banana plant fiber. This membrane and the whizzer cone are treated with a gel like (sticky) damping material applied to the rear of the membrane and whizzer cone.  This may have fixed the peaks we see with drivers based on paper or paper kevlar membrane.    
+>"We selected this specific speaker as it has very low distortion and a flat SPL (very rare for an 8" full range speaker). We used an 8" speaker because it offers a large membrane surface area = higher resolution. This driver has a membrane made from bamboo fiber paper. This membrane and the whizzer cone are treated with a gel like (sticky) damping material applied to the rear of the membrane and whizzer cone.  This may have fixed the peaks we see with drivers based on paper or paper kevlar membrane.    
 >
 >It has underhung motor, this means the entire voice coils always stays within the magnetic gap for very low distortion, higher efficiency (almost all power is converted to motion) and low moving mass (smaller voice coil).    
 >
@@ -57,6 +57,11 @@ I must have run through my entire record collection. On [Muddy Waters Live](http
 
 ![thumb](https://user-images.githubusercontent.com/33669641/170866731-f278693b-6319-467d-83cd-bd7ae11e238d.jpg)
 
+Moving on to a more modern recording, Billie Eilish's "I Wish You Were Gay", the powerDAC-S and open baffles accentuate the contrasts between the singer's soft whispering voice and the multi-layered backdrop of sounds coming in and out of the song like crashing waves. Her brother Finneas explains: "...I really wanted it to get to this kind of bombastic, triumphant place, sonically. It was important to me that it got to an exciting climax with hefty beats and all these stomps and claps." Mission accomplished.
+
+![thumb](https://user-images.githubusercontent.com/33669641/170925245-0d6b476f-9a0f-4339-8aeb-9e65526c4cad.jpg)
+
+
 That's what it's all about.
 
 As a side note, listening to such recordings on this system may lead one to reconsider the tradeoffs between digital and analogue. My turntable is now only used to listen to those recordings that are simply not available in a digital format. As with the powerDAC-R, the powerDAC-S offers all these wonderful sounds with even a basic source (CD player, PC...).
@@ -72,5 +77,7 @@ I did struggle with speaker placement, and am still not sure I have found an opt
 The output power of the powerDAC-S is limited to 4 Watts per channel. This may be problematic for those who listen to music at high volumes. If you need to listen to a symphony at a volume comparable to a front-row concert seat, then this system is not for you.
 
 Listening recently to a "high-end" system - 45.000€ speakers (yes, there is such a thing) in a well-treated room - I was impressed by its "clean" and wide sound. But it lacked, to my ears, the exquisite transparency and accuracy of the ECD system that pulls me in completly to the music. That system could play well at very high volumes but something else was lacking, something I know I can enjoy with the powerDAC-S/open baffles. We all have different tastes and needs. 
+
+The ECdesigns powerDAC-S and open baffle speakers has  shown  me aspects of sound reproduction that a conventional audio system with separate components (DAC + preamp + amplifier + multi-way speakers) may never be able to offer, regardless of cost. In this case, Less IS more. For me, there is simply no looking back.
 
 Hopefully, this short review will have conveyed a sense of what can be expected from the powerDAC-S and its companion speakers. 

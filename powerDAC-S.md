@@ -57,14 +57,14 @@ I must have run through my entire record collection. On [Muddy Waters Live](http
 
 ![thumb](https://user-images.githubusercontent.com/33669641/170866731-f278693b-6319-467d-83cd-bd7ae11e238d.jpg)
 
+As a side note, listening to such recordings on this system may lead one to reconsider the tradeoffs between digital and analogue. My turntable is now only used to listen to those recordings that are simply not available in a digital format. As with the powerDAC-R, the powerDAC-S offers all these wonderful sounds with even a basic source (CD player, PC...).
+
 Moving on to a more modern recording, Billie Eilish's "I Wish You Were Gay", the powerDAC-S and open baffles accentuate the contrasts between the singer's soft whispering voice and the multi-layered backdrop of sounds coming in and out of the song like crashing waves. Her brother Finneas explains: "...I really wanted it to get to this kind of bombastic, triumphant place, sonically. It was important to me that it got to an exciting climax with hefty beats and all these stomps and claps." Mission accomplished.
 
 ![thumb](https://user-images.githubusercontent.com/33669641/170925245-0d6b476f-9a0f-4339-8aeb-9e65526c4cad.jpg)
 
 
 That's what it's all about.
-
-As a side note, listening to such recordings on this system may lead one to reconsider the tradeoffs between digital and analogue. My turntable is now only used to listen to those recordings that are simply not available in a digital format. As with the powerDAC-R, the powerDAC-S offers all these wonderful sounds with even a basic source (CD player, PC...).
 
 In an attempt to convey my enthusiasm for this system, and at the request of some, I made several video recordings of the system using my phone - they can be heard on my [YouTube channel](https://www.youtube.com/channel/UCPVDgLqppDuwi3k9EGuw42g). In spite of the poor quality of the recording, one can perhaps get an idea of the type of sound to expect when listening to the system live.
 

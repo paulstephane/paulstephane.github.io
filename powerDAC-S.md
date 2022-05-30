@@ -34,7 +34,7 @@ Moreover, as ECDesigns explains in their documentation:
 
 My living room is long (11 meters) but fairly narrow (between 3.5 and 4 meters wide) and has a fairly low ceiling (2.5 meters) typical of modern constructions - I have no special acoustic treatment installed. How would these giant speakers perform in my home?
 
-Once again, curiosity got the best of me. I ordered the wood online (https://www.tosize.fr/), took the panels to a DIY shop in Paris (https://monatelierenville.com/) to get the speaker placements cut out, and set out to assemble it all.
+Once again, curiosity got the best of me. I ordered the wood [online](https://www.tosize.fr/), took the panels to a [DIY shop in Paris](https://monatelierenville.com/) to get the speaker placements cut out, and set out to assemble it all.
 
 ECDesigns was very helpful in answering all my questions and made a few valuable suggestions as well. I wired the speakers using copper foil, and added horizontal beams in the back to further improve the rigidity of the baffle. 
 

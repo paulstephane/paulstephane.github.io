@@ -102,8 +102,6 @@ h2 {
 </div>
 </body>
 
-<script src="https://cdn.rawgit.com/showdownjs/showdown/2.1.0/dist/showdown.min.js"></script>
-
 <script>
     
 const url  = 'https://storage.googleapis.com/cloudplayer/'
@@ -118,7 +116,7 @@ async function displayAlbum(albumID){
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
   fetch(url + 'markdown/'+ albumID + '.json').then(response => response.json()).then(data => loadAlbum(data))
-  fetch(url + 'markdown/'+ albumID + '.md').then(response => response.text()).then(notes => loadNotes(notes))
+  fetch(url + 'markdown/'+ albumID + '.html').then(response => response.text()).then(notes => loadNotes(notes))
 
 }
 
@@ -170,32 +168,8 @@ async function loadAlbum(data){
 
 async function loadNotes(notes){
 
-  var lines = notes.split(/\r?\n/)
-  var count = lines.length
-  var text = ''
-  var found = false;
-  for (var i = 0;i<count;i++){
-    if(lines[i].charCodeAt(0)==9){
-      var temp = lines[i].substr(1).split('.')
-          if (found == false)
-          {
-            lines[i] = '<table class="table is-narrow">'
-          } else {lines[i] = ''}
-          found = true;
-          lines[i] = lines[i]+'<tr class="tracks"><td width="30px" style="border-bottom:none;">'+temp[0]+'.</td><td  width="auto" style="border-bottom:none;"><b>'+lines[i].substr(1).replace(temp[0]+".","")+'</b></td></tr>' 
-    } else {
-      if (found == true){
-        text = text + '</table>'
-      }
-      found = false;
-    }
-    text = text + lines[i] + '\n'
-  }
 
-  var converter = new showdown.Converter();
-  var content = converter.makeHtml(text);
-
-  document.getElementById("albumNotes").innerHTML = content;
+  document.getElementById("albumNotes").innerHTML = notes;
   document.getElementById("notesBox").style.display = "block";  
   document.getElementById("albumNotes").style.display = "block";  
 }

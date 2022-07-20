@@ -171,9 +171,39 @@ async function loadAlbum(data){
 }
 
 async function loadNotes(notes){
+
+  var lines = notes.split(/\r?\n/)
+  var count = lines.length
+  var text = ''
+  for (var i = 0;i<count;i++){
+    if(lines[i].charCodeAt(0)==9){
+      var temp = lines[i].match(/\t([0-9]*)\./)
+      if (temp != null)
+      {
+        var tracknum = parseInt(temp[0])
+        if (tracknum != NaN){
+          if (found == false)
+          {
+            lines[i] = '<table class="table is-narrow">'
+          } else {lines[i] = ''}
+          found = true;
+          total = total + 1;
+          lines[i] = lines[i]+'<tr class="tracks"><td width="30px" style="border-bottom:none;">'+tracknum+'.</td><td  width="auto" style="border-bottom:none;"><b>'+lines[i].replace(tracknum,'')+'</b></td></tr>' 
+          }
+        } 
+      }
+    } else {
+      if (found == true){
+        text = text + '</table>'
+      }
+      found = false;
+    }
+    text = text + lines[i] + '\n'
+  }
+
   var converter = new showdown.Converter();
-  var content = converter.makeHtml(notes);
-  
+  var content = converter.makeHtml(text);
+
   document.getElementById("albumNotes").innerHTML = content;
     document.getElementById("notesBox").style.display = "block";  
     document.getElementById("albumNotes").style.display = "block";  

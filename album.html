@@ -117,7 +117,9 @@ async function displayAlbum(albumID){
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
   console.log("fetch:",albumID)
-  fetch(url + 'markdown/'+ albumID + '.md').then(response => response.text()).then(data => console.log(data))
+  fetch(url + 'markdown/'+ albumID + '.json').then(response => response.json()).then(data => RefreshPage(data))
+  fetch(url + 'markdown/'+ albumID + '.md').then(response => response.text()).then(notes => console.log(notes))
+
 }
 
 function displayArtwork(url) {
@@ -146,26 +148,30 @@ async function RefreshPage(data){
     var artists = document.getElementById("Artists");
     var albumInfo = document.getElementById("albumInfo");
    
-    document.title = decodeURIComponent(data.album.title)
+    document.title = decodeURIComponent(data.title)
         
     
-    label.innerText = decodeURIComponent(data.album.title) 
-    artists.innerHTML = decodeURIComponent(data.album.artist)
-    albumInfo.innerHTML = decodeURIComponent(data.tracks[0].genre) + ' &bull; ' +  decodeURIComponent(data.album.year) + ' &bull; ' + data.tracks[0].samplesize + "/" +  data.tracks[0].samplerate/1000;    
-    await preloadImage(url +  'artwork/' + data.albumID + '.jpg?' + new Date().getTime())
-    document.getElementById("albumNotes").innerHTML = data.content;
-    document.getElementById("notesBox").style.display = "block";  
-    document.getElementById("albumNotes").style.display = "block";  
+    label.innerText = decodeURIComponent(data.title) 
+    artists.innerHTML = decodeURIComponent(data.artist)
+    albumInfo.innerHTML = decodeURIComponent(data.genre) + ' &bull; ' +  decodeURIComponent(data.year) + ' &bull; ' + data.samplesize + "/" +  data.samplerate/1000;    
+    await preloadImage(url +  'artwork/' + data.albumid + '.jpg?' + new Date().getTime())
+
   };
 
-  
-const preloadImage = src => {
+   
+  const preloadImage = src => {
   return new Promise(r => {
     const image = new Image()
     image.onload = r
     image.onerror = r
     image.src = src
   })
+}
+
+async function loadNotes(notes){
+  document.getElementById("albumNotes").innerHTML = notes.content;
+    document.getElementById("notesBox").style.display = "block";  
+    document.getElementById("albumNotes").style.display = "block";  
 }
 
 </script>

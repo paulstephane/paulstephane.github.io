@@ -120,11 +120,16 @@ async function displayAlbum(albumID){
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
 
-  fetch(url + 'markdown/' + albumID + '.md').then(function(response) {
-  response.json().then(function(data) {
-    console.log(data)
-  });
-});
+  const xhr = new XMLHttpRequest();
+  const md_url = url + 'markdown/' + albumID + '.md'
+  xhr.open('GET', url);
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      console.log(this.responseText)
+    } 
+  }
+  xhttp.send();
+  xhttp.withCredentials = true;
   
 }
 

@@ -121,15 +121,13 @@ async function displayAlbum(albumID){
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
 
   const request  = new XMLHttpRequest();
-  request .open('GET', url + 'markdown/' + albumID + '.md');
-  request .onreadystatechange = function() {
+  request.open('GET', url + 'markdown/' + albumID + '.md');
+  request.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
       console.log(this.responseText)
     } 
   }
-  request .send();
-  request .withCredentials = true;
-  
+  request.send(); 
 }
 
 function displayArtwork(url) {

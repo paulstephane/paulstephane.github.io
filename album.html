@@ -177,21 +177,14 @@ async function loadNotes(notes){
   var text = ''
   for (var i = 0;i<count;i++){
     if(lines[i].charCodeAt(0)==9){
-      var temp = lines[i].match(/\t([0-9]*)\./)
-      if (temp != null)
-      {
-        var tracknum = parseInt(temp[0])
-        if (tracknum != NaN){
+      var temp = lines[i].substr(1).split('.')
           if (found == false)
           {
             lines[i] = '<table class="table is-narrow">'
           } else {lines[i] = ''}
           found = true;
           total = total + 1;
-          lines[i] = lines[i]+'<tr class="tracks"><td width="30px" style="border-bottom:none;">'+tracknum+'.</td><td  width="auto" style="border-bottom:none;"><b>'+lines[i].replace(tracknum,'')+'</b></td></tr>' 
-          }
-        } 
-      }
+          lines[i] = lines[i]+'<tr class="tracks"><td width="30px" style="border-bottom:none;">'+temp[0]+'.</td><td  width="auto" style="border-bottom:none;"><b>'+temp[1]+'</b></td></tr>' 
     } else {
       if (found == true){
         text = text + '</table>'
@@ -205,8 +198,8 @@ async function loadNotes(notes){
   var content = converter.makeHtml(text);
 
   document.getElementById("albumNotes").innerHTML = content;
-    document.getElementById("notesBox").style.display = "block";  
-    document.getElementById("albumNotes").style.display = "block";  
+  document.getElementById("notesBox").style.display = "block";  
+  document.getElementById("albumNotes").style.display = "block";  
 }
 
 </script>

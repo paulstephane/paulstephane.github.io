@@ -276,7 +276,6 @@ function padCards(){
 
 function DisplayAlbums(albums) {
   
-  var sort = document.getElementById("sortID").value
   var card;
   var counter = 0;
   const fragment = document.createDocumentFragment();
@@ -290,11 +289,7 @@ function DisplayAlbums(albums) {
       //card.innerHTML += '<div class="icon-row"><span class="icon is-medium" onclick="playAlbum('+ line.id +')"><i class="fas fa-play"></i></span><span class="icon is-medium" onclick="addAlbum('+ line.id +')"><i class="fas fa-plus"></i></span></div>'
       var title = document.createElement("div");
       title.className = "card-title";
-      if(sort == 'RecYear'){
-        title.innerHTML = decodeURIComponent("<h2><b>" + line.albumartist + "</b></h2><h2>[" + line.recyear+ "] " + line.title+ "</h2>");
-      } else {
-        title.innerHTML = decodeURIComponent("<h2><b>" + line.albumartist + "</b></h2><h2>[" + line.year+ "] " + line.title+ "</h2>");
-      }
+      title.innerHTML = decodeURIComponent("<h2><b>" + line.albumartist + "</b></h2><h2>[" + line.recyear+ "] " + line.title+ "</h2>");
       card.appendChild(title);
       fragment.appendChild(card);
     
@@ -328,22 +323,6 @@ function pad(num, size)
 {
   var s = "0000" + num;
   return s.substr(s.length-size);
-}
-
-function fancyTimeFormat(time)
-{   
-    // Hours, minutes and seconds
-    var hrs = ~~(time / 3600);
-    var mins = ~~((time % 3600) / 60);
-    var secs = ~~time % 60;
-    // Output like "1:01" or "4:03:59" or "123:03:59"
-    var ret = "";
-    if (hrs > 0) {
-        ret += "" + hrs + ":" + (mins < 10 ? "0" : "");
-    }
-    ret += "" + mins + ":" + (secs < 10 ? "0" : "");
-    ret += "" + secs;
-    return ret;
 }
 
 </script>

@@ -115,13 +115,13 @@ var path;
 var albumID = 0;
 
 var param = window.location.hash.split('#')
-console.log(param[1])
-if(param.length < 2){
-  return; 
-} 
 
-  console.log(param[1])
+if(param.length < 2){
+  process.exit(0) 
+} 
+  
   albumID = param[1]
+  console.log(albumID)
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
 

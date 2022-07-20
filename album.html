@@ -175,6 +175,7 @@ async function loadNotes(notes){
   var lines = notes.split(/\r?\n/)
   var count = lines.length
   var text = ''
+  var found = false;
   for (var i = 0;i<count;i++){
     if(lines[i].charCodeAt(0)==9){
       var temp = lines[i].substr(1).split('.')

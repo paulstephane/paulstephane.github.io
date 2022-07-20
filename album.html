@@ -1,0 +1,184 @@
+<html>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<style>
+body { overscroll-behavior: none}
+
+div.album {
+  margin-left:0px;
+  margin-top:10px;
+  text-align: left;
+}
+div.album_image img {
+  height: 220px;
+  width:  220px;
+  display: block;
+  border-radius: 3px;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+}
+div.album_image:hover {cursor:pointer}
+div.tracks {
+  margin-top: 20px;
+}
+table { 
+  margin-top:20px;
+  margin-bottom:20px;
+}
+iframe { height:300px;}
+td { padding:5px;border-bottom:none}
+tr:hover {cursor: pointer;}
+hr {
+     width:100%; 
+     height: 3px;
+     border-bottom: 2px DarkSlateBlue solid
+}
+.artwork {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:flex-start;
+}
+
+@media screen and (min-width: 769px) {
+  .albumInfo {
+  margin-top:50px
+  }
+}
+
+blockquote {
+    border-left-width: 0px !important;
+}
+
+h1  {
+ font-size:16px !important;
+ font-weight:700 !important;
+}
+
+h2 {
+  font-size:16px !important;
+  font-weight:0 !important;
+  font-style: italic !important;
+  margin-top: 0px !important;
+}
+
+</style>
+
+<body style="margin:20px">
+  <div class = "container">
+  <div class="columns">
+    <div class="column is-narrow" >
+      <div class="container is-fluid" id="container">	
+        <div class="album" id="album" style="display:block" style="width:220px">
+          <div class="album_image" id="album_image" style="width:220px"></div>
+          <p class="subtitle is-6" id="albumInfo" style="margin:10px"></p>
+          <div class="artwork" id="artwork"></div>
+        </div>
+      </div>
+    </div>
+    <div class="column albumInfo">       
+      <p class="title is-4" id="titleID"></p>
+      <p class="subtitle is-5" id="Artists"></p>
+    </div>
+  </div>
+  <div class = "columns">
+    <div class="column">
+      <div class="box" id="notesBox" >
+        <div class="content" id="albumNotes"></div>     
+      </div>
+    </div>
+  </div>
+  <div class="container is-clipped">
+  <div class="modal" id="imageModal">
+    <div class="modal-background"  onclick="closeArtwork()"></div>
+    <div class="modal-content" >
+      <p class="image is-square">
+        <img id="artworkImage" alt="" onclick="closeArtwork()" >
+      </p>
+    </div>
+    <button class="modal-close is-large" aria-label="close" onclick="closeArtwork()"></button>
+  </div>
+</div>
+</div>
+</body>
+
+
+<script>
+  
+  
+const url  = 'https://storage.googleapis.com/cloudplayer/'
+
+var trackID = 0;
+var local = false;
+var scan = false;
+var path;
+var albumID = 0;
+
+var param = window.location.hash.split('#')
+if(param.length <= 1){
+
+  return;
+  
+} 
+
+  console.log(param[1])
+  albumID = param[1]
+  var img = document.getElementById("album_image");
+  img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
+
+
+  var artwork = document.getElementById("artwork");
+  var notes = '';
+  var tracks = [];
+  var path;
+
+function displayArtwork(url) {
+  document.getElementById("artworkImage").setAttribute("src", url);
+  document.getElementById("imageModal").classList.add("is-active")
+
+  return;
+  const link = document.createElement('a');
+  link.href = url;
+  link.target = '_blank';
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+    
+ }
+
+function closeArtwork(){
+  document.getElementById("imageModal").classList.remove("is-active")
+}
+
+async function RefreshPage(data){
+
+    var album = document.getElementsByClassName("album")[0];
+
+    var label = document.getElementById("titleID");
+    var artists = document.getElementById("Artists");
+    var albumInfo = document.getElementById("albumInfo");
+   
+    document.title = decodeURIComponent(data.album.title)
+        
+    
+    label.innerText = decodeURIComponent(data.album.title) 
+    artists.innerHTML = decodeURIComponent(data.album.artist)
+    albumInfo.innerHTML = decodeURIComponent(data.tracks[0].genre) + ' &bull; ' +  decodeURIComponent(data.album.year) + ' &bull; ' + data.tracks[0].samplesize + "/" +  data.tracks[0].samplerate/1000;    
+    await preloadImage(url +  'artwork/' + data.albumID + '.jpg?' + new Date().getTime())
+    document.getElementById("albumNotes").innerHTML = data.content;
+    document.getElementById("notesBox").style.display = "block";  
+    document.getElementById("albumNotes").style.display = "block";  
+  };
+
+  
+const preloadImage = src => {
+  return new Promise(r => {
+    const image = new Image()
+    image.onload = r
+    image.onerror = r
+    image.src = src
+  })
+}
+
+</script>
+</html>

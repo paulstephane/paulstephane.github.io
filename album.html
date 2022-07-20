@@ -182,7 +182,7 @@ async function loadNotes(notes){
             lines[i] = '<table class="table is-narrow">'
           } else {lines[i] = ''}
           found = true;
-                    lines[i] = lines[i]+'<tr class="tracks"><td width="30px" style="border-bottom:none;">'+temp[0]+'.</td><td  width="auto" style="border-bottom:none;"><b>'+lines[i].substr(1).replace(temp[0]+'.','')+'</b></td></tr>' 
+          lines[i] = lines[i]+'<tr class="tracks"><td width="30px" style="border-bottom:none;">'+temp[0]+'.</td><td  width="auto" style="border-bottom:none;"><b>'+lines[i].substr(1).replace(temp[0]+".","")+'</b></td></tr>' 
     } else {
       if (found == true){
         text = text + '</table>'

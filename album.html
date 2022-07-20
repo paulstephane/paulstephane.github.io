@@ -115,10 +115,8 @@ var path;
 var albumID = 0;
 
 var param = window.location.hash.split('#')
-if(param.length <= 1){
-
-  return;
-  
+if(param.length < 2){
+  return; 
 } 
 
   console.log(param[1])

@@ -152,8 +152,8 @@ async function RefreshPage(data){
         
     
     label.innerText = decodeURIComponent(data.title) 
-    artists.innerHTML = decodeURIComponent(data.artist)
-    albumInfo.innerHTML = decodeURIComponent(data.genre) + ' &bull; ' +  decodeURIComponent(data.year) + ' &bull; ' + data.samplesize + "/" +  data.samplerate/1000;    
+    artists.innerHTML = decodeURIComponent(data.albumartist)
+    albumInfo.innerHTML = decodeURIComponent(data.genre) + ' &bull; ' +  decodeURIComponent(data.year) + ' &bull; ' + data.bps + "/" +  data.rate/1000;    
     await preloadImage(url +  'artwork/' + data.albumid + '.jpg?' + new Date().getTime())
 
   };

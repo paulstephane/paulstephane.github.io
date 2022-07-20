@@ -287,7 +287,7 @@ function DisplayAlbums(albums) {
       card = document.createElement("div"); 
       card.className = "mycard";
       card.id = line.albumid;
-      card.innerHTML = '<a href ="/album#' + line.albumid  + '" target="_blank"><img  data-src="' +  url + 'artwork/' + line.albumid + '" loading="lazy" width="220" height="220"></a>'; 
+      card.innerHTML = '<a href ="/album#' + line.albumid  + '" target="_blank"><img  data-src="' +  url + 'artwork/' + line.albumid + '" loading="lazy"></a>'; 
       var title = document.createElement("div");
       title.className = "card-title";
       title.innerHTML = decodeURIComponent("<h2><b>" + line.albumartist + "</b></h2><h2>[" + line.recyear+ "] " + line.title+ "</h2>");

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -232,9 +231,6 @@ async function getAlbums(){
  // fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(data))
   fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(alasql('SELECT * FROM ? AS a ORDER BY a.recyear',[data])))
 }
-
-
-
 
 function initGrid(){
   var cards = document.getElementsByClassName("mycards")[0];

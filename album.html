@@ -102,6 +102,8 @@ h2 {
 </div>
 </body>
 
+<script src="https://cdn.rawgit.com/showdownjs/showdown/2.1.0/dist/showdown.min.js"></script>
+
 <script>
     
 const url  = 'https://storage.googleapis.com/cloudplayer/'
@@ -117,8 +119,8 @@ async function displayAlbum(albumID){
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
   console.log("fetch:",albumID)
-  fetch(url + 'markdown/'+ albumID + '.json').then(response => response.json()).then(data => RefreshPage(data))
-  fetch(url + 'markdown/'+ albumID + '.md').then(response => response.text()).then(notes => console.log(notes))
+  fetch(url + 'markdown/'+ albumID + '.json').then(response => response.json()).then(data => loadAlbum(data))
+  fetch(url + 'markdown/'+ albumID + '.md').then(response => response.text()).then(notes => loadNotes(notes))
 
 }
 
@@ -140,7 +142,7 @@ function closeArtwork(){
   document.getElementById("imageModal").classList.remove("is-active")
 }
 
-async function RefreshPage(data){
+async function loadAlbum(data){
 
     var album = document.getElementsByClassName("album")[0];
 
@@ -169,7 +171,10 @@ async function RefreshPage(data){
 }
 
 async function loadNotes(notes){
-  document.getElementById("albumNotes").innerHTML = notes.content;
+  var converter = new showdown.Converter();
+  var content = converter.makeHtml(notes);
+  
+  document.getElementById("albumNotes").innerHTML = content;
     document.getElementById("notesBox").style.display = "block";  
     document.getElementById("albumNotes").style.display = "block";  
 }

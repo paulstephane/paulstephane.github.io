@@ -199,6 +199,7 @@ tr:hover {cursor: pointer;}
 
 </body >
 
+<script src="https://cdn.jsdelivr.net/npm/alasql@1.7"></script>
 <script>
     
 const url  = 'https://storage.googleapis.com/cloudplayer/'
@@ -227,8 +228,8 @@ const lazyLoad = (target)=>{
 getAlbums()
 async function getAlbums(){
 
-  fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(data))
-
+ // fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(data))
+  fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(alasql('SELECT * FROM ? AS a ORDER BY a.recyear',[data])))
 }
 
 

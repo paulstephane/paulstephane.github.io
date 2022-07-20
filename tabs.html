@@ -280,18 +280,18 @@ function DisplayAlbums(albums) {
   var counter = 0;
   const fragment = document.createDocumentFragment();
   albums.forEach((line) => {
-    counter += 1;
 
+     if(line.status == '2'){
       card = document.createElement("div"); 
       card.className = "mycard";
       card.id = line.albumid;
       card.innerHTML = '<a href ="/album#' + line.albumid  + '" target="_blank"><img  data-src="' +  url + 'artwork/' + line.albumid + '" loading="lazy" width="220" height="220"></a>'; 
-      //card.innerHTML += '<div class="icon-row"><span class="icon is-medium" onclick="playAlbum('+ line.id +')"><i class="fas fa-play"></i></span><span class="icon is-medium" onclick="addAlbum('+ line.id +')"><i class="fas fa-plus"></i></span></div>'
       var title = document.createElement("div");
       title.className = "card-title";
       title.innerHTML = decodeURIComponent("<h2><b>" + line.albumartist + "</b></h2><h2>[" + line.recyear+ "] " + line.title+ "</h2>");
       card.appendChild(title);
       fragment.appendChild(card);
+    }
     
   })
   cards.appendChild(fragment)

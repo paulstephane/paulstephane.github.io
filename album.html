@@ -110,7 +110,6 @@ const url  = 'https://storage.googleapis.com/cloudplayer/'
 
 const param = window.location.hash.split('#')
 if(param.length > 1 ){
-  console.log("album:",param[1])
   displayAlbum(param[1])
 } 
 
@@ -118,7 +117,6 @@ async function displayAlbum(albumID){
 
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
-  console.log("fetch:",albumID)
   fetch(url + 'markdown/'+ albumID + '.json').then(response => response.json()).then(data => loadAlbum(data))
   fetch(url + 'markdown/'+ albumID + '.md').then(response => response.text()).then(notes => loadNotes(notes))
 

@@ -19,7 +19,7 @@ Utility to upload ablums to your Discogs collection
 
 ### Music
 
-**[Music Collection](https://paulstephane.github.io/tabs)**     
+**[Music Collection](https://paulstephane.github.io/collection)**     
 Some of my albums with annotations & liner notes
 
 **[Jan Evensmo Interview](JanEvensmo)**    

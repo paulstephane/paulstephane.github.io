@@ -224,40 +224,15 @@ const lazyLoad = (target)=>{
   io.observe(target)
 }
 
-displayAlbums()
-async function displayAlbums(){
+getAlbums()
+async function getAlbums(){
 
-fetch(url + 'albums.json').then(response => response.json()).then(data => console.log(data))
-
-}
-
-
-
-
-function Search(){
-  console.log("search")
-  var max_albums = 9999;
-  /*
-  if(document.getElementById("max_albums").checked){
-    max_albums = 200
-  }*/
-  var favorites = false;
-  var text = document.getElementById("textID").value
-  var sort = document.getElementById("sortID").value
-  var status = document.getElementById("Status").value
-  var genre = document.getElementById("GenreSelect").value;
-  if(document.getElementById("filterfavIconOn").style.display == "inline"){
-    favorites = true
-  }
-  
-  var search = [];
-  if(text != undefined && text!=""){
-    search = JSON.parse(text)
-    
-  }
-  //socket.emit('search', {text:search,sort:sort,favorites:favorites,status:status,favorites:favorites,genre:genre,max:max_albums});
+  fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(data))
 
 }
+
+
+
 
 function initGrid(){
   var cards = document.getElementsByClassName("mycards")[0];
@@ -301,18 +276,13 @@ function padCards(){
 
 function DisplayAlbums(albums) {
   
-  var max_albums = 9999;
-  /*
-  if(document.getElementById("max_albums").checked){
-    max_albums = 200
-  }*/
   var sort = document.getElementById("sortID").value
   var card;
   var counter = 0;
   const fragment = document.createDocumentFragment();
   albums.forEach((line) => {
     counter += 1;
-    if(counter < max_albums){
+
       card = document.createElement("div"); 
       card.className = "mycard";
       card.id = line.albumid;
@@ -327,7 +297,7 @@ function DisplayAlbums(albums) {
       }
       card.appendChild(title);
       fragment.appendChild(card);
-    }
+    
   })
   cards.appendChild(fragment)
   lastcard = cards.lastChild;

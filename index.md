@@ -19,6 +19,9 @@ Utility to upload ablums to your Discogs collection
 
 ### Music
 
+**[Music Collection](tabs)**
+Some of my albums with annotations & liner notes
+
 **[Jan Evensmo Interview](JanEvensmo)**    
 Jazz Archeologist Jan Evensmo talks about his passion for Jazz
 

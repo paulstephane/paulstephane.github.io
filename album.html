@@ -108,28 +108,19 @@ h2 {
   
 const url  = 'https://storage.googleapis.com/cloudplayer/'
 
-var trackID = 0;
-var local = false;
-var scan = false;
-var path;
-var albumID = 0;
+const param = window.location.hash.split('#')
 
-var param = window.location.hash.split('#')
-
-if(param.length < 2){
-  process.exit(0) 
+if(param.length > 1 ){
+  displayAlbum(param[1])
 } 
-  
-  albumID = param[1]
+
+function displayAlbum(albumID){
+
   console.log(albumID)
   var img = document.getElementById("album_image");
   img.innerHTML= "<img  src='" + url +  'artwork/' + albumID + '?' + new Date().getTime() + "' onclick=displayArtwork('" + url +  'artwork/' + albumID+ '.jpg?'  + new Date().getTime() + "')>";
 
-
-  var artwork = document.getElementById("artwork");
-  var notes = '';
-  var tracks = [];
-  var path;
+}
 
 function displayArtwork(url) {
   document.getElementById("artworkImage").setAttribute("src", url);

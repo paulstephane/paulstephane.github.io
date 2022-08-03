@@ -20,7 +20,7 @@ Utility to upload ablums to your Discogs collection
 ### Music
 
 **[Music Collection](https://paulstephane.github.io/collection)** New!     
-Some of my albums with annotations & liner notes
+Some of my albums with annotations & liner notes - Work in Progress
 
 **[Jan Evensmo Interview](JanEvensmo)**    
 Jazz Archeologist Jan Evensmo talks about his passion for Jazz

@@ -8,6 +8,7 @@ ECdesigns's take on High Fidelity in a speaker system - May 2022
 Review of a groundbreaking Digital to Analog converter and headphone amplifier - April 2021
 
 **[YouTube Channel](https://www.youtube.com/channel/UCPVDgLqppDuwi3k9EGuw42g/videos)**
+Recordings of my system
 
 
 ### Software

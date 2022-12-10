@@ -10,17 +10,6 @@ Review of a groundbreaking Digital to Analog converter and headphone amplifier -
 **[YouTube Channel](https://www.youtube.com/channel/UCPVDgLqppDuwi3k9EGuw42g/videos)**     
 Recordings of my system
 
-
-### Software
-
-**[UPL Player](https://github.com/paulstephane/UPLPlayer)**    
-Application for ECdesign's UPL
-
-
-
-**[Discogs Upload](discogs_upload)**    
-Utility to upload ablums to your Discogs collection
-
 ### Music
 
 **[Music Collection](https://paulstephane.github.io/collection)** New!     
@@ -43,6 +32,16 @@ A dance date with the Duke
 
 **[Lady Day](LadyDay)**    
 Remembering Billie Holiday
+
+### Software
+
+**[UPL Player](https://github.com/paulstephane/UPLPlayer)**    
+Application for ECdesign's UPL
+
+
+
+**[Discogs Upload](discogs_upload)**    
+Utility to upload ablums to your Discogs collection
 
 
 ---

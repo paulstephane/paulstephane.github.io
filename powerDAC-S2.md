@@ -29,7 +29,7 @@ One of the most striking sound characteristics of the ECDesigns system is best e
 
 A "non audiophile" friend, listening to Artie Shaw's "Begin the Beguine" on my system, remarked: "I have never heard this song like this before - I feel I am transported back to the 1940s!"
 
-Being a jazz aficionadao myself, most of the music I listen to has been recorded in a 40 year time span between the early 1930s and the late 1960s. Recordings are not always of the highest quality. Listening to Bill Savory's recording of Coleman Hawkins's *Body and Soul*, broadcast from the Fiesta Dancieria in N.Y.C. on May 17, 1940, I feel I am "there", in the crowd, listening to this timeless music. This, to me, is priceless.
+Being a jazz aficionadao myself, most of the music I listen to has been recorded in a 40-year time span between the early 1930s and the late 1960s. Recordings are not always of the highest quality. Listening to Bill Savory's recording of Coleman Hawkins' *Body and Soul*, broadcast from the Fiesta Dancieria in N.Y.C. on May 17, 1940, I feel I am "there", in the crowd, listening to this timeless music. This, to me, is priceless.
 
 Another striking aspect of this system is the sound quality it offers at low volume levels, something that I value highly as I spend many late nights listening to music. Here again, Arthur Salvatore explains:
 

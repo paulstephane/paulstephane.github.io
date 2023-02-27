@@ -1,6 +1,9 @@
 
 ### Audio Equipment
 
+**[Time travelling with ECdesigns' PowerDAC-S and Open Baffle Spearkers](powerDAC-S2)**
+February 2023
+
 **[ECdesigns PowerDAC-S and Open Baffle Speakers](powerDAC-S)**    
 ECdesigns's take on High Fidelity in a speaker system - May 2022
 

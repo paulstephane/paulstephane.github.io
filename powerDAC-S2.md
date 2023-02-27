@@ -9,7 +9,7 @@ I built these speakers out of curiosity, in a leap of faith, not having heard th
 
 To make matters worse, my living room was far from ideal from an "acoustic" standpoint, and I did not initially find a satisfactory placement for the speakers.
 
-I spend many months "tweaking" the speakers and making adjustments to my listening space. 
+I spent many months "tweaking" the speakers and making adjustments to my listening space:
 
 - I experimented reducing the size of the speaker panels. I also build a 3-driver version, in an attempt to make them even more discrete, but went back to the original 4-driver version as it offered significantly better sonics.
 

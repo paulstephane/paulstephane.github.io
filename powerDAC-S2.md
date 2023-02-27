@@ -21,7 +21,7 @@ I had come up with solutions to some of the practical problems I was facing, but
 
 The system, as explained in my previous article, is unique in its design (it is a quasi  "straight wire with attenuation"). The listening experience is also, to my ears, unique, and *unlike anything I had heard before* (in my previous setups, at people's homes, audio dealers, and audio shows).
 
-One of the most striking characteristics of the ECDesigns system, is best explained by what audio critic Arthur Salvatore (http://www.high-endaudio.com) refers to as "individuation" :
+One of the most striking sound characteristics of the ECDesigns system is best explained by what audio critic Arthur Salvatore (http://www.high-endaudio.com) refers to as "individuation":
 
 >"As I've grown older and more experienced, it is my increasing conviction that a component's ability to **Individualize** each instrument (including voices), and the recording space, is its most difficult, musically rewarding and ultimate challenge. If the ultimate goal of listening to (recorded) music is a human-to-human, emotional, intellectual, spiritual and artistic "connection", I don't see how anything can be more important than individualizing each musician as a unique and distinct artist, along with their own "space". Further, by definition and simple logic, the unavoidable rule is that every weakness of a component (and system), either of omission or commission, will compromise that desired individuality. Some examples...
 >

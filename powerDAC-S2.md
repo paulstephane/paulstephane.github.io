@@ -7,7 +7,7 @@ This article is a follow-up to my previous article on ECDesigns' audio system, w
 
 I built these speakers out of curiosity, in a leap of faith, not having heard them before. I was doubtful that I would end up keeping such large and intrusive speakers in my flat, as I do not have a dedicated listening space outside of a smaller room that I use as my home office. My plan, were I to keep them, was to store them in that small room and wheel them out to my living room to use them. But is so much effort really required simply to enjoy music? 
 
-To make matters worse, my living room was far from ideal from an "acoustic" standpoint, and I had not initially found a satisfactory placement for the speakers.
+To make matters worse, my living room was far from ideal from an "acoustic" standpoint, and I did not initially find a satisfactory placement for the speakers.
 
 I spend many months "tweaking" the speakers and making adjustments to my listening space. 
 

@@ -37,8 +37,7 @@ Another striking aspect of this system is the sound quality it offers at low vol
 
 As a bonus, the system offers all these qualities using the most basic source component - a raspberryPi model 3A+. 
 
-
-![Pi](https://user-images.githubusercontent.com/33669641/221508172-536d2b64-7eee-4cfb-bd50-fd0534e8505c.jpg)
+![Pi](https://user-images.githubusercontent.com/33669641/221515470-e11b9faa-4f38-431d-a9e7-2421302bd67d.jpg)
 
 
 Enamored with the sound quality of this system, and having found ways to optimize its performance in my living space, I decided to have the speakers professionally rebuilt to my specifications. After some discussion and guidance from the cabinetmaker (http://www.rouaultacoustic.com/), I settled on the following design:
@@ -48,7 +47,7 @@ Enamored with the sound quality of this system, and having found ways to optimiz
 
 The front baffle is 24mm thick, 40cm wide and 115cm high. Two side wings are 30cm and 15cm deep at the base, and narrower at the top so that the front baffle is slightly tilted back. The build quality offers better "visuals", durability, and though I was never able to compare it with my own model, the added rigidity of the construction seems to have improved the sound as well.
 
-![Speakers](https://user-images.githubusercontent.com/33669641/221506569-9956652e-c551-432b-92da-4859b05b43fa.jpg)
+![20230213_201102](https://user-images.githubusercontent.com/33669641/221515739-42720925-24e1-4a77-bf5b-99f19a552cce.jpg)
 
 As can be seen in the picture, I added 20kg weights to the base of the speakers to improve their stability.
 

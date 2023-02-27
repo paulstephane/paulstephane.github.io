@@ -35,13 +35,13 @@ Another striking aspect of this system is the sound quality it offers at low vol
 
 >"It's the low sound-floor of a component (and complete system of course) that allows you to hear the natural harmonics, body, decays, space, ambience and subtle dynamic shifts of the original recording. It also reduces the tendency for musical homogenization. Another benefit is that the component, in this case a speaker, doesn't change (by "dying") when the music becomes softer in volume. This weakness, so common in speakers, forces the listener to play extra (unnaturally) loud if he wants the music to always sound "alive". Listening at a natural volume even enhances the dynamic excitement of the music, because of the extra contrast when going from truly soft to truly loud. Playing "loud" and then "extra loud" is a poor and unsatisfying substitute for natural contrasts."
 
-As an added bonus, the system offers all these qualities using the most basic source component - a raspberryPi model 3A+. 
+As a bonus, the system offers all these qualities using the most basic source component - a raspberryPi model 3A+. 
 
 
 ![Pi](https://user-images.githubusercontent.com/33669641/221508172-536d2b64-7eee-4cfb-bd50-fd0534e8505c.jpg)
 
 
-Enamored with the sound quality of this system, and having found ways to optimize its performance and use in my living space, I decided to have the speakers professionally rebuild to my specifications. After some discussions and guidance from the cabinetmaker (http://www.rouaultacoustic.com/), I settled on the following design:
+Enamored with the sound quality of this system, and having found ways to optimize its performance in my living space, I decided to have the speakers professionally rebuilt to my specifications. After some discussion and guidance from the cabinetmaker (http://www.rouaultacoustic.com/), I settled on the following design:
 
 ![Plan](https://user-images.githubusercontent.com/33669641/221508346-a1bd7558-e926-4151-9ba9-1d192f0c49c7.jpg)
 

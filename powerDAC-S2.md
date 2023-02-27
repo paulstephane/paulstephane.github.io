@@ -5,7 +5,7 @@ This article is a follow-up to my previous article on ECDesigns' audio system, w
 - the powerDAC-S, a novel "all in one" digital-to-analog converter and speaker amplifier
 - open baffle speakers of their own design (but "build your own")
 
-I build these speakers out of curiosity, in a leap of faith, not having ever heard them before. I was skeptical that I would end up keeping such large and intrusive speakers in my flat. I do not have a dedicated listening space, outside of a smaller room that I use as my home office. My plan, where I to keep them, was to have them stored in that small room and wheel them out into my living room when I wanted to use them. Is so much effort really required to enjoy music, one could ask ? Why go through all this trouble ?
+I built these speakers out of curiosity, in a leap of faith, not having ever heard them before. I was skeptical that I would end up keeping such large and intrusive speakers in my flat. I do not have a dedicated listening space, outside of a smaller room that I use as my home office. My plan, where I to keep them, was to have them stored in that small room and wheel them out into my living room when I wanted to use them. Is so much effort really required to enjoy music, one could ask ? Why go through all this trouble ?
 
 To make matters worse, my living room was far from ideal from an "acoustic" standpoint, and I had not initially found a satisfactory placement for the speakers.
 

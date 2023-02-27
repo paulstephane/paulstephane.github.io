@@ -1,7 +1,7 @@
 
 ### Audio Equipment
 
-**[Time travelling with ECdesigns' PowerDAC-S and Open Baffle Spearkers](powerDAC-S2.md)**    
+**[Time travelling with ECdesigns' PowerDAC-S and Open Baffle Speakers](powerDAC-S2.md)**    
 February 2023
 
 **[ECdesigns PowerDAC-S and Open Baffle Speakers](powerDAC-S)**    

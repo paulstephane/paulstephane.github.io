@@ -19,7 +19,7 @@ I spent many months "tweaking" the speakers and making adjustments to my listeni
 
 I had come up with solutions to some of the practical problems I was facing, but the question remained: Was all this worth the effort? 
 
-The system, as explained in my previous article, is unique in its design (it is a quasi  "straight wire with attenuation"). The listening experience is also, to my ears, unique, and *unlike anything I had heard before* (in my previous setups, or at peoples' homes, audio dealers, and audio shows).
+The system, as explained in my previous article, is unique in its design (it is a quasi  "straight wire with attenuation"). The listening experience is also, to my ears, unique, and *unlike anything I had heard before* (in my previous setups, at people's homes, audio dealers, and audio shows).
 
 One of the most striking characteristics of the ECDesigns system, is best explained by what audio critic Arthur Salvatore (http://www.high-endaudio.com) refers to as "individuation" :
 

@@ -21,7 +21,7 @@ I had come up with solutions to some of the practical problems I was facing, but
 
 The system, as explained in my previous article, is unique in its design (it is a quasi  "straight wire with attenuation"). The listening experience is also, to my ears, unique, and *unlike anything I had heard before* (in my previous setups, at people's homes, audio dealers, and audio shows).
 
-One of the most striking sound characteristics of the ECDesigns system is best explained by what audio critic Arthur Salvatore (http://www.high-endaudio.com) refers to as "individuation":
+One of the most striking sound characteristics of the ECDesigns system is best explained by what audio critic Arthur Salvatore (**[www.high-endaudio.com]http://www.high-endaudio.com)**) refers to as "individuation":
 
 >"As I've grown older and more experienced, it is my increasing conviction that a component's ability to **Individualize** each instrument (including voices), and the recording space, is its most difficult, musically rewarding and ultimate challenge. If the ultimate goal of listening to (recorded) music is a human-to-human, emotional, intellectual, spiritual and artistic "connection", I don't see how anything can be more important than individualizing each musician as a unique and distinct artist, along with their own "space". Further, by definition and simple logic, the unavoidable rule is that every weakness of a component (and system), either of omission or commission, will compromise that desired individuality. Some examples...
 >
@@ -29,7 +29,7 @@ One of the most striking sound characteristics of the ECDesigns system is best e
 
 A "non audiophile" friend, listening to Artie Shaw's "Begin the Beguine" on my system, remarked: "I have never heard this song like this before - I feel I am transported back to the 1940s!"
 
-Being a jazz aficionadao myself, most of the music I listen to has been recorded in a 40-year time span between the early 1930s and the late 1960s. Recordings are not always of the highest quality. Listening to Bill Savory's recording of Coleman Hawkins' *Body and Soul*, broadcast from the Fiesta Dancieria in N.Y.C. on May 17, 1940, I feel I am "there", in the crowd, listening to this timeless music. This, to me, is priceless.
+Being a jazz aficionadao myself, most of the music I listen to has been recorded in a 40-year time span between the early 1930s and the late 1960s. Recordings are not always of the highest quality. Listening to Bill Savory's recording of Coleman Hawkins' *Body and Soul*, broadcast from the Fiesta Danceteria in N.Y.C. on May 17, 1940, I feel I am "there", in the crowd, listening to this timeless music. This, to me, is priceless.
 
 Another striking aspect of this system is the sound quality it offers at low volume levels, something that I value highly as I spend many late nights listening to music. Here again, Arthur Salvatore explains:
 
@@ -39,7 +39,7 @@ As a bonus, the system offers all these qualities using the most basic source co
 
 ![Pi](https://user-images.githubusercontent.com/33669641/221515470-e11b9faa-4f38-431d-a9e7-2421302bd67d.jpg)
 
-Enamored with the sound quality of this system, and having found ways to optimize its performance in my living space, I decided to have the speakers professionally rebuilt to my specifications. After some discussion and guidance from the cabinetmaker (http://www.rouaultacoustic.com/), I settled on the following design:
+Enamored with the sound quality of this system, and having found ways to optimize its performance in my living space, I decided to have the speakers professionally rebuilt to my specifications. After some discussion and guidance from the cabinetmaker (**[www.rouaultacoustic.om](http://www.rouaultacoustic.com/)**), I settled on the following design:
 
 ![Plan](https://user-images.githubusercontent.com/33669641/221508346-a1bd7558-e926-4151-9ba9-1d192f0c49c7.jpg)
 

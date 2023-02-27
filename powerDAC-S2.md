@@ -13,11 +13,11 @@ I spent many months "tweaking" the speakers and making adjustments to my listeni
 
 - I experimented with reducing the size of the speaker panels. I also built a 3-driver version in an attempt to make them even more discreet, but went back to the original 4-driver version as it offered significantly better sonics.
 
-- Through trial and error, I managed to find the optimal placement for the speakers; I rearranged some furniture to find space to store them in my living room, thereby reducing the effort involved in setting them up each time I wanted to listen to them; furniture changes and curtains also improved the overall acoustics.
+- Through trial and error, I managed to find the optimal placement for the speakers. I rearranged some furniture to store them in my living room, thereby reducing the effort involved in setting them up each time I wanted to listen to them. Furniture changes and curtains also improved the overall acoustics.
 
 - I found a simple way to move the speakers around by installing wheels designed for upright pianos.
 
-I had come up with mitigating solutions to some of the practical problems I was facing, but the question remained - was all this worth the effort ? 
+I had come up with solutions to some of the practical problems I was facing, but the question remained: Was all this worth the effort? 
 
 The system, as explained in my previous article, is unique in its design (it is a quasi  "straight wire with attenuation"). The listening experience is also, to my ears, unique, and *unlike anything I had heard before* (in my previous setups, or at peoples' homes, audio dealers, and audio shows).
 

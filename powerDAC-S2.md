@@ -11,11 +11,11 @@ To make matters worse, my living room was far from ideal from an "acoustic" stan
 
 I spent many months "tweaking" the speakers and making adjustments to my listening space:
 
-- I experimented reducing the size of the speaker panels. I also build a 3-driver version, in an attempt to make them even more discrete, but went back to the original 4-driver version as it offered significantly better sonics.
+- I experimented with reducing the size of the speaker panels. I also built a 3-driver version in an attempt to make them even more discreet, but went back to the original 4-driver version as it offered significantly better sonics.
 
-- Through trial and error, I managed to find a more optimal placement for the speakers; I rearranged some furniture to find space to store them in my living room, thereby reducing the effort involved in setting them up each time I want to listen to them; furniture changes and curtains, also improved the overall acoustics.
+- Through trial and error, I managed to find the optimal placement for the speakers; I rearranged some furniture to find space to store them in my living room, thereby reducing the effort involved in setting them up each time I wanted to listen to them; furniture changes and curtains also improved the overall acoustics.
 
-- I found a simple way to move the speakers around by installing "casters for upright pianos" on their base.
+- I found a simple way to move the speakers around by installing wheels designed for upright pianos.
 
 I had come up with mitigating solutions to some of the practical problems I was facing, but the question remained - was all this worth the effort ? 
 

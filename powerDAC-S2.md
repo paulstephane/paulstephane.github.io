@@ -50,6 +50,6 @@ The front baffle is 24mm thick, 40cm wide and 115cm high. Two side wings are 30c
 
 ![Speakers](https://user-images.githubusercontent.com/33669641/221506569-9956652e-c551-432b-92da-4859b05b43fa.jpg)
 
-As can be seen in the picture, I added 20 Kg weights on the base of the speakers to improve their stability.
+As can be seen in the picture, I added 20kg weights to the base of the speakers to improve their stability.
 
-Is the system perfect ? No system is, but it is perfect for me! Can it be improved upon - only the Brown brothers from ECDesigns hold the answer to that question!
+No system is perfect, but this one is close to perfect for me. Can it be improved upon? Only the Brown brothers from ECDesigns hold the answer to that question.

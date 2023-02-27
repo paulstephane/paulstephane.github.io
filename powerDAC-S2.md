@@ -47,7 +47,8 @@ Enamored with the sound quality of this system, and having found ways to optimiz
 
 The front baffle is 24mm thick, 40cm wide and 115cm high. Two side wings are 30cm and 15cm deep at the base, and narrower at the top so that the front baffle is slightly tilted back. The build quality offers better "visuals", durability, and though I was never able to compare it with my own model, the added rigidity of the construction seems to have improved the sound as well.
 
-![20230213_201102](https://user-images.githubusercontent.com/33669641/221515739-42720925-24e1-4a77-bf5b-99f19a552cce.jpg)
+![Speakers2](https://user-images.githubusercontent.com/33669641/221516027-d86a93dd-29c8-4490-8cb6-38baf6dc2399.jpg)
+
 
 As can be seen in the picture, I added 20kg weights to the base of the speakers to improve their stability.
 

@@ -1,4 +1,4 @@
-*October 2023*
+*February 2023*
 
 This article is a follow-up to my previous article on ECDesigns' audio system, which is composed of:
 

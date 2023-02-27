@@ -27,7 +27,7 @@ One of the most striking sound characteristics of the ECDesigns system is best e
 >
 >Every coloration masks some of the inherent sound (aesthetic) of, and adds an artificial quality to, a unique instrument. Every dynamic compression, no matter how subtle, diminishes some of the musician's original emotion. Every subtraction of the natural harmonics and decays makes the musician and space sound more "generic". Any loss of transparency removes at least part of the complete musical picture (performance). Accordingly, when a component lacks the capability of individuation, what the listener will experience is inevitable...
 
-A "non audiophile" friend, listening to Artie Shaw's "Begin the Beguine" on my system, explained: "I have never heard this song like this before - I feel I am transported to the 1940s!"
+A "non audiophile" friend, listening to Artie Shaw's "Begin the Beguine" on my system, remarked: "I have never heard this song like this before - I feel I am transported back to the 1940s!"
 
 Being a jazz aficionadao myself, most of the music I listen to has been recorded in a 40 year time span between the early 1930s and the late 1960s. Recordings are not always of the highest quality. Listening to Bill Savory's recording of Coleman Hawkins's *Body and Soul*, broadcast from the Fiesta Dancieria in N.Y.C. on May 17, 1940, I feel I am "there", in the crowd, listening to this timeless music. This, to me, is priceless.
 

@@ -1,4 +1,10 @@
- *November 2020*
+<html>
+<head>
+<meta name="description" content="Jan Evensmo Interview">
+</head>
+</html>
+
+*November 2020*
 
 You may have come across Jan Evensmo's work referenced in jazz publications or liner notes or by reading his fascinating website  **[Jazz Archeology](http://www.jazzarcheology.com/)**. 
 

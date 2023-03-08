@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta name="description" content="ECdesigns PowerDAC-S review">
+</head>
+</html>
+
 *May 2022*
 
 This review should be read as a follow up to my previous [review of ECdesigns' powerDAC-R](/PDR-Preview.md).

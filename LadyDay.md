@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta name="description" content="Remembering Billie Holiday">
+</head>
+</html>
+
 *March 3, 2021*
 
 In 1946 Hollywood made a film about Jazz  - "New Orleans" - and cast Billie Holiday, arguably the most influential singer in Jazz, in a secondary role as a servant.

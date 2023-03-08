@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta name="description" content="Time Travellling with ECdesigns' PowerDAC-S and Open Baffle Speakers">
+</head>
+</html>
+
 *February 2023*
 
 This article is a follow-up to my previous article on ECDesigns' audio system, which is composed of:

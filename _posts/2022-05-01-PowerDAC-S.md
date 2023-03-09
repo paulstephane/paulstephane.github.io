@@ -4,7 +4,7 @@ title: ECdesigns PowerDAC-S and Open Baffle Speakers
 category: Audio
 ---
 
-*ECdesigns's take on High Fidelity in a speaker system*
+**ECdesigns's take on High Fidelity in a speaker system**
 
 This review should be read as a follow up to my previous [review of ECdesigns' powerDAC-R](/PDR-Preview.md).
 

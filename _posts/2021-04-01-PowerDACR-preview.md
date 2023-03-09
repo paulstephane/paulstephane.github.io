@@ -1,7 +1,7 @@
 ---
 layout: post
-title: More Ellington Gems
-subtitle: The Lake - 1969 concert performance
+title: ECdesigns PowerDAC-R
+subtitle: Review of a groundbreaking Digital to Analog converter and headphone amplifier
 category: Audio
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Ellington’s Portrait of the Lion
-subtitle: Pittsburgh music workshop performance
 category: Music
 ---
+
+*Pittsburgh music workshop performance*
 
 The Pittsburgh Jazz Festival organized on June 20, 1965 a "Jazz Piano Workshop" which was luckily recorded and has been re-issued on **[CD by Mosaic Records](https://www.discogs.com/Various-The-Jazz-Piano/release/5260834)**. 
 

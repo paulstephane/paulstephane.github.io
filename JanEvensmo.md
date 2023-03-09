@@ -1,6 +1,3 @@
----
-subtitle: Jan Evensmo Interview
----
 
 *November 2020*
 

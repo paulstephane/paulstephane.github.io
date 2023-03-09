@@ -6,7 +6,7 @@ category: Audio
 
 *ECdesigns's take on High Fidelity in a speaker system*
 
-This review should be read as a follow up to my previous [review of ECdesigns' powerDAC-R](_posts/2021-04-01-PowerDACR-preview.md).
+This review should be read as a follow up to my previous [review of ECdesigns' powerDAC-R](/audio/2021/04/01/PowerDACR-preview.html).
 
 That first review introduced the reader to ECdesigns' approach and "philosophy" and provided a lot of background technical information, but was brief when it comes to impressions of audio quality. Truth be told, the powerDAC-R left me a little frustrated. As ECdesigns explains, and most audiophiles well know, the quality of an audio system is a product of all its compenents. However well a DAC performs, the sound you hear depends as much on the quality of the amplifier and speaker it is paired with.
 

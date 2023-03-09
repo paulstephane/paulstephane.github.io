@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Duke Ellington at the Sunset Ballroom
-subtitle: A dance date with the Duke
 category: Music
 ---
+
+*A dance date with the Duke*
 
 Duke Ellington's **[All Star Road Band](https://www.discogs.com/master/527105-Duke-Ellington-All-Star-Road-Band)** album was recorded live at a dance in the Sunset Ballroom, in Carrolltown, PA, in June 1957.
 

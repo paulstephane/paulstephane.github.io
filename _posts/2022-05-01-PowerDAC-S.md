@@ -1,7 +1,7 @@
 ---
 layout: post
-title: More Ellington Gems
-subtitle: The Lake - 1969 concert performance
+title: ECdesigns PowerDAC-S and Open Baffle Speakers
+subtitle: ECdesigns's take on High Fidelity in a speaker system
 category: Audio
 ---
 

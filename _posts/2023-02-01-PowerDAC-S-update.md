@@ -5,9 +5,9 @@ subtitle:
 category: Audio
 ---
 
+*A follow-up to my previous article on ECDesigns' audio system*
 
-
-This article is a follow-up to my previous article on ECDesigns' audio system, which is composed of:
+The system described is composed of:
 
 - the powerDAC-S, a novel "all in one" digital-to-analog converter and speaker amplifier
 - open baffle speakers of their own design (but "build your own")

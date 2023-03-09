@@ -1,9 +1,10 @@
 ---
 layout: post
 title: ECdesigns PowerDAC-R
-subtitle: Review of a groundbreaking Digital to Analog converter and headphone amplifier
 category: Audio
 ---
+
+*Review of a groundbreaking Digital to Analog converter and headphone amplifier*
 
 ECdesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website: **[www.ecdesigns.nl](www.ecdesigns.nl)**.
 

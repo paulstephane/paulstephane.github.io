@@ -1,3 +1,12 @@
+---
+layout: post
+title: Time travelling with ECdesigns' PowerDAC-S and Open Baffle Speakers
+subtitle: 
+category: Audio
+---
+
+
+
 This article is a follow-up to my previous article on ECDesigns' audio system, which is composed of:
 
 - the powerDAC-S, a novel "all in one" digital-to-analog converter and speaker amplifier

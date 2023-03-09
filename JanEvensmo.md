@@ -1,8 +1,6 @@
-<html>
-<head>
-<meta name="description" content="Jan Evensmo Interview">
-</head>
-</html>
+---
+title: Jan Evensmo Interview
+---
 
 *November 2020*
 

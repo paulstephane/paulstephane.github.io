@@ -1,7 +1,7 @@
 ---
 layout: post
-title: More Ellington Gems
-subtitle: The Lake - 1969 concert performance
+title: Duke Ellington at the Sunset Ballroom
+subtitle: A dance date with the Duke
 category: Music
 ---
 

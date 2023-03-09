@@ -1,51 +1,21 @@
+---
+layout: default
+---
 
-### Audio Equipment
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-**[Time travelling with ECdesigns' PowerDAC-S and Open Baffle Speakers](powerDAC-S2.md)**    
-February 2023
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-**[ECdesigns PowerDAC-S and Open Baffle Speakers](powerDAC-S)**    
-ECdesigns's take on High Fidelity in a speaker system - May 2022
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-**[ECdesigns PowerDAC-R](PDR-Preview)**    
-Review of a groundbreaking Digital to Analog converter and headphone amplifier - April 2021
-
-**[YouTube Channel](https://www.youtube.com/channel/UCPVDgLqppDuwi3k9EGuw42g/videos)**     
-Recordings of my system
-
-### Music
-
-**[Music Collection](https://paulstephane.github.io/collection)** New!     
-Some of my albums with annotations & liner notes - Work in Progress
-
-**[Jan Evensmo Interview](JanEvensmo)**    
-Jazz Archeologist Jan Evensmo talks about his passion for Jazz
-
-
-**[Ellington's Portrait of the Lion](Portrait)**    
-Pittsburgh music workshop performance
-
-
-**[More Ellington Gems](TheLake)**    
-The Lake - 1969 concert performance
-
-
-**[Duke Ellington at the Sunset Ballroom](Sunset)**    
-A dance date with the Duke
-
-**[Lady Day](LadyDay)**    
-Remembering Billie Holiday
-
-### Software
-
-**[UPL Player](https://github.com/paulstephane/UPLPlayer)**    
-Application for ECdesign's UPL
-
-
-
-**[Discogs Upload](discogs_upload)**    
-Utility to upload ablums to your Discogs collection
-
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
 ---
 

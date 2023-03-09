@@ -1,3 +1,10 @@
+---
+layout: post
+title: More Ellington Gems
+subtitle: The Lake - 1969 concert performance
+category: Audio
+---
+
 ECdesigns is a two-person operation run by brothers John and Gordon Brown; John handles circuit design and Gordon oversees the programming aspects. They are based near Eindhoven in the Netherlands, and products are sold directly through their website: **[www.ecdesigns.nl](www.ecdesigns.nl)**.
 
 

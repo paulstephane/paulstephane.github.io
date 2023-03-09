@@ -1,5 +1,5 @@
 ---
-page.title: Jan Evensmo Interview
+title: Jan Evensmo Interview
 ---
 
 *November 2020*

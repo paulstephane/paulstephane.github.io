@@ -3,3 +3,7 @@ title: Articles
 description: Music and Audio related tidbits
 show_excerpts: true
 google_analytics: UA-227472383-1
+  social_links:
+    - platform: youtube  # same as SVG filename.
+      user_url: "https://www.youtube.com/@stephanel.4555/videos"  # URL of profile page.
+      title:  Youtube Channel  # Optional. Text displayed on hovering over link.

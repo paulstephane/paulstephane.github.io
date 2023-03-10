@@ -311,17 +311,5 @@ function pad(num, size)
 }
 
 
-function fixedEncodeURIComponent (str) {
-  return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
-    return '%' + c.charCodeAt(0).toString(16);
-  });
-}
-
-function pad(num, size) 
-{
-  var s = "0000" + num;
-  return s.substr(s.length-size);
-}
-
 </script>
 

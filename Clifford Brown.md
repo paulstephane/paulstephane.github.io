@@ -11,5 +11,5 @@
 **Annotated Albums**
 
 <html>
-  <embed type="text/html" src="/artist.html#Clifford%2520Brown">
+  <iframe id="iframe" src="/artist.html#Clifford%2520Brown" style="width: 100%; height: 90vh; border: 0;">
 </html>

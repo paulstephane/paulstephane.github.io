@@ -9,4 +9,4 @@ Questions or comments: contact me at paulstephanegithub@gmail.com
 
 [Music Colletion - Work in Progress](/collection.html)
 
-![20230207_182257](https://user-images.githubusercontent.com/33669641/224268657-082dd02f-9a2b-4a00-8545-b13e512b98aa.jpg)
+![dick wilson and any kirk](https://user-images.githubusercontent.com/33669641/224274754-0dad9a25-4bed-4f57-9dac-7d581285462e.png)

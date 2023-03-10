@@ -4,12 +4,14 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Clifford_Brown_1956.jpg/200px-Clifford_Brown_1956.jpg)
 
 Bio
+
 ---
 
 
 
 
 References
+
 ---
 
 [Jan Evensmo - Clifford Brown Solography](http://www.jazzarcheology.com/clifford-brown/)
@@ -17,6 +19,7 @@ References
 [Wikipedia](https://en.wikipedia.org/wiki/Clifford_Brown)
 
 Annotated Albums
+
 ---
 
 <html>

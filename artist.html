@@ -19,8 +19,7 @@ body {
   }
 }
 
-
-.folder {
+ .folder {
   margin:10px;
   cursor: pointer;
 }
@@ -170,13 +169,10 @@ tr:hover {cursor: pointer;}
             </div>
     </div>
 
-</body >
-
-<script src="https://cdn.jsdelivr.net/npm/alasql@1.7"></script>
+</body>
 <script>
     
 const url  = 'https://storage.googleapis.com/cloudplayer/artists/'
-
 var folders=[];
 var input = document.getElementById("textID");
 
@@ -200,9 +196,7 @@ const lazyLoad = (target)=>{
 
 getAlbums('Clifford%20Brown')
 async function getAlbums(artist){
-
- // fetch(url + artist + '.json').then(response => response.json()).then(data => DisplayAlbums(data))
-  fetch(url + 'albums.json',{cache: "no-store"}).then(response => response.json()).then(data => DisplayAlbums(alasql('SELECT * FROM ? AS a ORDER BY a.recyear',[data])))
+ fetch(url + artist + '.json').then(response => response.json()).then(data => DisplayAlbums(data))
 }
 
 function initGrid(){
@@ -246,7 +240,7 @@ function padCards(){
 }
 
 function DisplayAlbums(albums) {
-  
+  console.log(albums)
   var card;
   var counter = 0;
   const fragment = document.createDocumentFragment();
@@ -270,30 +264,5 @@ function DisplayAlbums(albums) {
   padCards()
   document.querySelectorAll('img').forEach(lazyLoad);
 };
-
-function fixedEncodeURIComponent (str) {
-  return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
-    return '%' + c.charCodeAt(0).toString(16);
-  });
-}
-
-function pad(num, size) 
-{
-  var s = "0000" + num;
-  return s.substr(s.length-size);
-}
-
-
-function fixedEncodeURIComponent (str) {
-  return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
-    return '%' + c.charCodeAt(0).toString(16);
-  });
-}
-
-function pad(num, size) 
-{
-  var s = "0000" + num;
-  return s.substr(s.length-size);
-}
 
 </script>

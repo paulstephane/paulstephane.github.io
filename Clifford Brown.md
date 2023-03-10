@@ -1,6 +1,5 @@
 
-
-![](https://en.wikipedia.org/wiki/Clifford_Brown#/media/File:Clifford_Brown_1956.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Clifford_Brown_1956.jpg/800px-Clifford_Brown_1956.jpg))
 
 **References**
 

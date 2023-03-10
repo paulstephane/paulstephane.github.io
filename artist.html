@@ -195,9 +195,13 @@ const lazyLoad = (target)=>{
   io.observe(target)
 }
 
-getAlbums('artists/Clifford%2520Brown')
+const param = window.location.hash.split('#')
+if(param.length > 1 ){
+  getAlbums(param[1])
+} 
+
 async function getAlbums(artist){
- fetch(url + artist + '.json').then(response => response.json()).then(data => DisplayAlbums(data))
+ fetch(url + 'artists/' + artist + '.json').then(response => response.json()).then(data => DisplayAlbums(data))
 }
 
 function initGrid(){

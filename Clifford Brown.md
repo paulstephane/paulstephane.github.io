@@ -3,6 +3,12 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Clifford_Brown_1956.jpg/200px-Clifford_Brown_1956.jpg)
 
+**Bio**
+---
+
+
+
+
 **References**
 ---
 
@@ -16,3 +22,7 @@
 <html>
   <iframe src="/artist.html#Clifford%2520Brown" style="width: 100%; height: 90vh; border: 0;" scrolling="no">
 </html>
+
+---
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2Mnglpysuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

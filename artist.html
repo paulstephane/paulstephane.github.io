@@ -172,7 +172,7 @@ tr:hover {cursor: pointer;}
 </body>
 <script>
     
-const url  = 'https://storage.googleapis.com/cloudplayer/artists/'
+const url  = 'https://storage.googleapis.com/cloudplayer/'
 
 var folders=[];
 var input = document.getElementById("textID");
@@ -195,7 +195,7 @@ const lazyLoad = (target)=>{
   io.observe(target)
 }
 
-getAlbums('Clifford%2520Brown')
+getAlbums('artists/Clifford%2520Brown')
 async function getAlbums(artist){
  fetch(url + artist + '.json').then(response => response.json()).then(data => DisplayAlbums(data))
 }

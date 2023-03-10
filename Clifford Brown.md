@@ -9,4 +9,7 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Clifford_Brown)
 
 **Annotated Albums**
-<embed type="type="text/html" src="/artist.html#Clifford%2520Brown">
+
+<html>
+  <embed type="type="text/html" src="/artist.html#Clifford%2520Brown">
+</html>

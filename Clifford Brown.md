@@ -11,5 +11,5 @@
 **Annotated Albums**
 
 <html>
-  <embed type="type="text/html" src="/artist.html#Clifford%2520Brown">
+  <embed "type="text/html" src="/artist.html#Clifford%2520Brown">
 </html>

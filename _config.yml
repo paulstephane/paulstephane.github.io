@@ -1,5 +1,4 @@
-theme: minima:
-  skin: solarized-light
+theme: minima
 title: Music and Audio Blog
 show_excerpts: true
 google_analytics: UA-227472383-1

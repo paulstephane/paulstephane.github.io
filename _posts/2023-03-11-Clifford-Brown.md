@@ -3,7 +3,7 @@ layout: page
 title: Clifford Brown (1930-1956)
 ---
 
-*Revisiting Clifford Brown along with Jan Evensmo's recently published Solography*
+*Jan Evensmo's recently published solography prompted me to take a deep dive into Clifford Brown's recordings*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Clifford_Brown_1956.jpg/200px-Clifford_Brown_1956.jpg)
 

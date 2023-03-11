@@ -1,4 +1,7 @@
 
+**Annotated Albums**    
+
+---
 
 **Jay Jay Johnson Sextet**    
 *Recorded in NYC on June 22, 1953*
@@ -7,6 +10,8 @@
       <img data-src="https://storage.googleapis.com/cloudplayer/artwork/1678475623504" loading="lazy" src="https://storage.googleapis.com/cloudplayer/artwork/1678475623504">
     </a>
 </html>
+
+---
 
 **Clifford Brown Quartet**    
 *Recorded in Paris on October 15, 1953*

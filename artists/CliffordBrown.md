@@ -32,13 +32,19 @@ Annotated Albums
 *New York City, June 1953*
 <html><iframe src="/album_iframe.html#1675595187107" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
 
+---
+
 **Jay Jay Johnson Sextet**    
 *New York City, June 1953*
 <html><iframe src="/album_iframe.html#1678475623504" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
 
+---
+
 **Clifford Brown Sextet**    
 *New York City, August 1953*
 <html><iframe src="/album_iframe.html#1675595768383" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
+
+---
 
 **Clifford Brown Quartet**    
 *Paris, October 1953*

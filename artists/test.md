@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 
 Clifford Brown (1930-1956)
 ---

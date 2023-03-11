@@ -4,3 +4,5 @@ show_excerpts: true
 google_analytics: UA-227472383-1
 header_pages:
   - about.md
+minima:
+  skin: solarized-light

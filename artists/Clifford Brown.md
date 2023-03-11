@@ -74,6 +74,12 @@ Annotated Albums
   <iframe src="/album_iframe.html#1677672532114" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
+**Sonny Rollins Plus Four**
+*New Jersey, March 1956*
+ <html>
+  <iframe src="/album_iframe.html#1677614275261" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
 
 
 

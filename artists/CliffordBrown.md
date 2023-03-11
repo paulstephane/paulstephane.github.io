@@ -40,13 +40,13 @@ Annotated Albums
 *New York City, August 1953*
 <html><iframe src="/album_iframe.html#1675595768383" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
 
-**Art Blakey Quintet**    
-*New York City, February 1954*
-<html><iframe src="/album_iframe.html#1675596333133" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
-
 **Clifford Brown Quartet**    
 *Paris, October 1953*
 <html><iframe src="/album_iframe.html#1677866395944" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
+
+**Art Blakey Quintet**    
+*New York City, February 1954*
+<html><iframe src="/album_iframe.html#1675596333133" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
 
 **Clifford Brown Ensemble**    
 *Los Angeles, July 1954*
@@ -60,6 +60,10 @@ Annotated Albums
 *Los Angeles, August 1954*
 <html><iframe src="/album_iframe.html#1677669767074" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
 
+**Max Roach & Clifford Brown Quintet**    
+*Los Angeles, August 1954*
+<html><iframe src="/album_iframe.html#1677455733832" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
+
 **Clifford Brown All Stars**    
 *Los Angeles, August 1954*
 <html><iframe src="/album_iframe.html#1677670790774" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
@@ -72,10 +76,6 @@ Annotated Albums
 *New York City, December 1954*
 <html><iframe src="/album_iframe.html#1654640465136" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
   
-**Max Roach & Clifford Brown Quintet**
-*Los Angeles, August 1954*
-<html><iframe src="/album_iframe.html#1677455733832" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
-
 **Clifford Brown with Strings**    
 *New York City, January 1955*
 <html><iframe src="/album_iframe.html#1677614848694" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
@@ -97,9 +97,11 @@ Annotated Albums
 <html><iframe src="/album_iframe.html#1678534270249" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
 
 **Max Roach & Clifford Brown Quintet**  
+*New Jersey, March 1956*
+<html><iframe src="/album_iframe.html#1677614275261" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
+
+**Max Roach & Clifford Brown Quintet**  
 *Cleveland, May-June 1956*
 <html><iframe src="/album_iframe.html#1677571589532" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
   
-**Max Roach & Clifford Brown Quintet**  
-*New Jersey, March 1956*
-<html><iframe src="/album_iframe.html#1677614275261" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe></html>
+

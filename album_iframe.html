@@ -1,10 +1,11 @@
 <html>
-<body style="margin:20px">
+<body>
    <div class="card" id="card"></div>
 </body>
 <style>
 div.card {
   width: 220px;
+  margin:10px;
 }
 div.card img {
   height: 220px;
@@ -19,7 +20,7 @@ div.card img {
   const param = window.location.hash.split('#')
   if(param.length > 1 ){
     var card = document.getElementById("card"); 
-    card.innerHTML = '<a href ="/album#' + param[1]  + '" target="_blank"><img  data-src="' +  url + 'artwork/' + param[1] + '" loading="lazy" ></a>'; 
+    card.innerHTML = '<a href ="/album#' + param[1]  + '" target="_blank"><img src="' +  url + 'artwork/' + param[1] + '></a>'; 
   } 
 </script>
 </html>

@@ -9,6 +9,8 @@
   <iframe src="/album_iframe.html#1678475623504" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
+[YouTube](https://youtube.com/playlist?list=PLUJ7V33M1wR0SyUc2iMilsU6YIcDfP9fs)
+
 ---
 
 **Clifford Brown Quartet**    

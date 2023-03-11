@@ -8,7 +8,7 @@ title: Clifford Brown (1930-1956)
 
 **Dan Morgenstern - Liner Notes to Sonny Rollins Plus Four**
 
->He was fleet - the most incredible runs flowed like honey from his horn - but he never (or rarely, with the impetuousness of gifted youth) used speed as an end in itself. He had a gorgeous tone - the best sound in modern jazz trumpet playing since Fats Navarro. And he had ideas - jazz ideas, truly musical ideas, ideas that added up to a story. It was perhaps no coincidence that his sound was the fattest, mellowest trumpet sound since Fats Navarro, for Fats rather than Dizzy seemed to be Brownie's inspiration. You can't leave out Diz, of course. There is nobody like him. But tone was never his strong point - indeed, his whole development can be explained in terms of his search for - and discovery of a style which didn't depend as much on sound as had all jazz trumpet playing since Louis Armstrong. Fats had the old sound, and Brownie had it. Brownie also had a gift for melody which permeated his whole musical language. He could play a little run or phrase - just toss it off - and it would have melodic value. The young cats who play his phrases today more often than not just run them mechanically, without that "soul" that makes all the difference. But they're trying. Young as he was when he left us, Clifford Brown set a standard which still holds. Some people, as a matter of fact, seem to be running away from this high standard rather than trying to live up to it. But in art, nothing is wasted. The name of Clifford Brown will shine brightly in the annals of jazz for all time, lighted by music such as he plays here.
+"He was fleet - the most incredible runs flowed like honey from his horn - but he never (or rarely, with the impetuousness of gifted youth) used speed as an end in itself. He had a gorgeous tone - the best sound in modern jazz trumpet playing since Fats Navarro. And he had ideas - jazz ideas, truly musical ideas, ideas that added up to a story. It was perhaps no coincidence that his sound was the fattest, mellowest trumpet sound since Fats Navarro, for Fats rather than Dizzy seemed to be Brownie's inspiration. You can't leave out Diz, of course. There is nobody like him. But tone was never his strong point - indeed, his whole development can be explained in terms of his search for - and discovery of a style which didn't depend as much on sound as had all jazz trumpet playing since Louis Armstrong. Fats had the old sound, and Brownie had it. Brownie also had a gift for melody which permeated his whole musical language. He could play a little run or phrase - just toss it off - and it would have melodic value. The young cats who play his phrases today more often than not just run them mechanically, without that "soul" that makes all the difference. But they're trying. Young as he was when he left us, Clifford Brown set a standard which still holds. Some people, as a matter of fact, seem to be running away from this high standard rather than trying to live up to it. But in art, nothing is wasted. The name of Clifford Brown will shine brightly in the annals of jazz for all time, lighted by music such as he plays here."
 
 
 References
@@ -44,42 +44,53 @@ Annotated Albums
   <iframe src="/album_iframe.html#1677866395944" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
-**Max Roach & Clifford Brown Quintet**
+**Max Roach & Clifford Brown Quintet**    
 *Los Angeles, August 1954*
  <html>
   <iframe src="/album_iframe.html#1677671508046" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
-**Clifford Brown All Stars**
+**Clifford Brown All Stars**    
 *Los Angeles, August 1954*
  <html>
   <iframe src="/album_iframe.html#1677670790774" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
-**Jam Session with Dinah Washington**
+**Jam Session with Dinah Washington**    
 *Los Angeles, August 1954*
  <html>
   <iframe src="/album_iframe.html#1677669767074" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
-**Clifford Brown with Strings**
+**Clifford Brown with Strings**    
 *New York City, January 1955*
  <html>
   <iframe src="/album_iframe.html#1677614848694" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
-**Max Roach & Clifford Brown Quintet**
+**Max Roach & Clifford Brown Quintet**    
 *Los Angeles, February 1955*
  <html>
   <iframe src="/album_iframe.html#1677672532114" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
-**Sonny Rollins Plus Four**
+**Sonny Rollins Plus Four**    
 *New Jersey, March 1956*
  <html>
   <iframe src="/album_iframe.html#1677614275261" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
+**Max Roach & Clifford Brown Quintet**   
+*New York City, February 1956*
+ <html>
+  <iframe src="/album_iframe.html#156700857338" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
+**Max Roach & Clifford Brown Quintet**   
+*Cotton Club, Cleveland, May & June 1956*
+ <html>
+  <iframe src="/album_iframe.html#1677571589532" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
 
 
 

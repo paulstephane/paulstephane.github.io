@@ -1,10 +1,8 @@
 ---
 layout: page
+title: Clifford Brown (1930-1956)
 ---
 
-
-Clifford Brown (1930-1956)
----
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Clifford_Brown_1956.jpg/200px-Clifford_Brown_1956.jpg)
 

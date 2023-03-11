@@ -32,7 +32,7 @@ Annotated Albums
 **Jay Jay Johnson Sextet**    
 *NYC, June 1953*
 <html>
-  <iframe src="/album_iframe.html#1678475623504" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1678475623504" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 [Listen on YouTube](https://youtube.com/playlist?list=PLUJ7V33M1wR0SyUc2iMilsU6YIcDfP9fs)
@@ -41,55 +41,55 @@ Annotated Albums
 **Clifford Brown Quartet**    
 *Paris, October 1953*
  <html>
-  <iframe src="/album_iframe.html#1677866395944" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677866395944" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Max Roach & Clifford Brown Quintet**    
 *Los Angeles, August 1954*
  <html>
-  <iframe src="/album_iframe.html#1677671508046" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677671508046" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Clifford Brown All Stars**    
 *Los Angeles, August 1954*
  <html>
-  <iframe src="/album_iframe.html#1677670790774" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677670790774" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Jam Session with Dinah Washington**    
 *Los Angeles, August 1954*
  <html>
-  <iframe src="/album_iframe.html#1677669767074" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677669767074" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Clifford Brown with Strings**    
 *New York City, January 1955*
  <html>
-  <iframe src="/album_iframe.html#1677614848694" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677614848694" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Max Roach & Clifford Brown Quintet**    
 *Los Angeles, February 1955*
  <html>
-  <iframe src="/album_iframe.html#1677672532114" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677672532114" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Sonny Rollins Plus Four**    
 *New Jersey, March 1956*
  <html>
-  <iframe src="/album_iframe.html#1677614275261" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677614275261" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Max Roach & Clifford Brown Quintet**   
 *New York City, February 1956*
  <html>
-  <iframe src="/album_iframe.html#156700857338" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#156700857338" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 **Max Roach & Clifford Brown Quintet**   
 *Cotton Club, Cleveland, May & June 1956*
  <html>
-  <iframe src="/album_iframe.html#1677571589532" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+  <iframe src="/album_iframe.html#1677571589532" style="width: 100%; height: 320px; border: 0;" scrolling="no"></iframe>
 </html>
 
 

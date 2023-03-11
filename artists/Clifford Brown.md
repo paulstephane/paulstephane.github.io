@@ -44,4 +44,38 @@ Annotated Albums
   <iframe src="/album_iframe.html#1677866395944" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
 </html>
 
+**Max Roach & Clifford Brown Quintet**
+*Los Angeles, August 1954*
+ <html>
+  <iframe src="/album_iframe.html#1677671508046" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
+**Clifford Brown All Stars**
+*Los Angeles, August 1954*
+ <html>
+  <iframe src="/album_iframe.html#1677670790774" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
+**Jam Session with Dinah Washington**
+*Los Angeles, August 1954*
+ <html>
+  <iframe src="/album_iframe.html#1677669767074" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
+**Clifford Brown with Strings**
+*New York City, January 1955*
+ <html>
+  <iframe src="/album_iframe.html#1677614848694" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
+**Max Roach & Clifford Brown Quintet**
+*Los Angeles, February 1955*
+ <html>
+  <iframe src="/album_iframe.html#1677672532114" style="width: 100%; height: 250px; border: 0;" scrolling="no"></iframe>
+</html>
+
+
+
+
+
 

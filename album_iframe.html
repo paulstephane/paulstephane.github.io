@@ -1,7 +1,4 @@
 <html>
-<body>
-   <div class="card" id="card"></div>
-</body>
 <style>
 div.card {
   width: 220px;
@@ -18,9 +15,11 @@ div.card img {
 <script>
   const url  = 'https://storage.googleapis.com/cloudplayer/artwork/'
   const param = window.location.hash.split('#')
+  console.log(param)
   if(param.length > 1 ){
-    var card = document.getElementById("card"); 
-    card.innerHTML = '<a href ="/album#' + param[1]  + '" target="_blank"><img src="' +  url + param[1] + '></a>'; 
+    var card = document.createElement("card"); 
+    card.innerHTML = '<a href ="/album#' + param[1]  + '" target="_blank"><img src="' +  url + param[1] + '></a>';    
+    document.body.appendChild(card);
   } 
 </script>
 </html>

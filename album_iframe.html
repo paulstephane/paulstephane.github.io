@@ -16,11 +16,11 @@ div.card img {
 }
 </style>
 <script>
-  const url  = 'https://storage.googleapis.com/cloudplayer/'
+  const url  = 'https://storage.googleapis.com/cloudplayer/artwork/'
   const param = window.location.hash.split('#')
   if(param.length > 1 ){
     var card = document.getElementById("card"); 
-    card.innerHTML = '<a href ="/album#' + param[1]  + '" target="_blank"><img src="' +  url + 'artwork/' + param[1] + '></a>'; 
+    card.innerHTML = '<a href ="/album#' + param[1]  + '" target="_blank"><img src="' +  url + param[1] + '></a>'; 
   } 
 </script>
 </html>

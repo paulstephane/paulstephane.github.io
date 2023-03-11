@@ -3,7 +3,7 @@ layout: page
 title: Clifford Brown (1930-1956)
 ---
 
-Revisiting Clifford Brown's legacy with Jan Evensmo's recently published Solography
+*Revisiting Clifford Brown's legacy with Jan Evensmo's recently published Solography*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Clifford_Brown_1956.jpg/200px-Clifford_Brown_1956.jpg)
 

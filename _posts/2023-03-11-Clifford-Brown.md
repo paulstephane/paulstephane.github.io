@@ -29,6 +29,8 @@ References
 Annotated Albums
 ---
 
+I have annotated my albums to include recording dates, credits, Jan Evensmo's comments, and liner notes. In a next post, I will explain the system I have designed to do this.
+
 **Lou Donaldson - Clifford Brown Quintet**    
 *New York City, June 1953*
 <html><iframe src="/album_iframe.html#1675595187107" style="width: 100%; height: 330px; border: 0;" scrolling="no"></iframe></html>

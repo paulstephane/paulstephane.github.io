@@ -229,7 +229,7 @@ getAlbums()
 async function getAlbums(){
 
  // fetch(url + 'albums.json').then(response => response.json()).then(data => DisplayAlbums(data))
-  fetch(url + 'albums.json',{cache: "no-store"}).then(response => response.json()).then(data => DisplayAlbums(alasql('SELECT * FROM ? AS a ORDER BY a.recyear',[data])))
+  fetch(url + 'albums.json',{cache: "no-store"}).then(response => response.json()).then(data => DisplayAlbums(alasql('SELECT * FROM ? AS a ORDER BY a.mtime DESCENDING',[data])))
 }
 
 function initGrid(){

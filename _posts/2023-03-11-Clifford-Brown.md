@@ -43,6 +43,10 @@ I have annotated my albums to include recording dates, credits, Jan Evensmo's co
 *New York City, August 1953*
 <html><iframe src="/album_iframe.html#1675595768383" style="width: 100%; height: 330px; border: 0;" scrolling="no"></iframe></html>
 
+**Clifford Brown and Art Farmer**
+*Stockholm, September 1953*
+<html><iframe src="/album_iframe.html#1681628204495" style="width: 100%; height: 330px; border: 0;" scrolling="no"></iframe></html>
+
 **Clifford Brown Quartet**    
 *Paris, October 1953*
 <html><iframe src="/album_iframe.html#1677866395944" style="width: 100%; height: 330px; border: 0;" scrolling="no"></iframe></html>

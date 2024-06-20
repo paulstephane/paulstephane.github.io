@@ -12,7 +12,7 @@ Storyville Record CDs (with link to Bandcamp):
 
 [Volume 5](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-5)
 
-[Volume 6]https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-6)
+[Volume 6](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-6)
 
 [Volume 7](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-7)
 

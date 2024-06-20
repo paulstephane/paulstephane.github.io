@@ -32,7 +32,8 @@ Storyville Record CDs (with link to Bandcamp):
 [Volume 5](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-5)
 
 - tracks 1-20: Percy-Jones Center, Battle Creek, Michigan, June 2, 1945
-- tracks 21-50: New Zanzibar, NYC, September 18, 1945
+- tracks 21-30: New Zanzibar, NYC, September 18, 1945
+- tracks 31-53: Paramount Theatre, Toledo, Ohio, June 9, 1945
 
 [Volume 6](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-6)
 

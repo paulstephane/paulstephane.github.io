@@ -1,4 +1,4 @@
-Here is a chapter from Eddie Lambert's **Duke Ellington: A Listener's Guide** in which he gives his appreciation of Duke Ellington's Treasury Broadcasts.
+Here is a chapter from Eddie Lambert's **Duke Ellington: A Listener's Guide** in which he gives his appreciation of Duke Ellington's Treasury Broadcasts. The broadcasts are available on 50 CDs issued between 2000 and 2018. 
 
 ---
 

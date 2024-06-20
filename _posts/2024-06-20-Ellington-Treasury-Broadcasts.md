@@ -1,6 +1,6 @@
 Here is a chapter from Eddie Lambert's **Duke Ellington: A Listener's Guide** in which he gives his appreciation of Duke Ellington's Treasury Broadcasts. The broadcasts are available on 50 CDs issued between 2000 and 2018. 
 
-Storyville Record CDs (with link to Bandcamp):
+Storyville Record CDs (with links to Bandcamp):
 
 [Volume 1](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-1)
 

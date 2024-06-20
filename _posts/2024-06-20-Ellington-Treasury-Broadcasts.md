@@ -54,8 +54,11 @@ Storyville Record CDs (with links to Bandcamp):
 - tracks 22-30: New Zanzibar, NYC, September 21, 1945
 - tracks 31-49: Fieldstone Ballroom, Marshfield, MA, July 21, 1945
 
-
 [Volume 9](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-9)
+
+- tracks 1-18: State Theatre, Hartford, Connecticut, July 28, 1945
+- tracks 19-27: New Zanzibar, NYC, November 28, 1945
+- tracks 28-41: Radio City Studios, NYC, August 4, 1945
 
 [Volume 10](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-10)
 

@@ -4,7 +4,17 @@ Storyville Record CDs (with link to Bandcamp):
 
 [Volume 1](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-1)
 
+- tracks 1-16: 400 Restaurant, NYC, April 7, 1945
+- tracks 17-21: Studio 6B, Radio City, May 1, 1943
+- tracks 22-29: 400 Restaurant, NYC, April 14, 1945
+- tracks 30-45: Treasury Star Parade broadcast, NYC, June 1943
+
 [Volume 2](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-2)
+
+- tracks 1-15: 400 Restaurant, NYC, April 21, 1945
+- tracks 16-23: Treasury Star Parade 223, NYC, June 1943
+- tracks 24-40: 400 Restaurant, NYC, April 28, 1945
+- tracks 41-46: New Zanzibar, NYC, October 7, 1945
 
 [Volume 3](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-3)
 

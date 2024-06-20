@@ -50,6 +50,11 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 8](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-8)
 
+- tracks 1-21: RKO Theatre, Boston, July 14, 1945
+- tracks 22-30: New Zanzibar, NYC, September 21, 1945
+- tracks 31-49: Fieldstone Ballroom, Marshfield, MA, July 21, 1945
+
+
 [Volume 9](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-9)
 
 [Volume 10](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-10)

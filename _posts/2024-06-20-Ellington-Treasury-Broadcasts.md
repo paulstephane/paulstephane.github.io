@@ -18,6 +18,11 @@ Storyville Record CDs (with link to Bandcamp):
 
 [Volume 3](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-3)
 
+- tracks 1-20: Adams Theatre, Newark, May 5, 1945
+- tracks 21-25: New Zanzibar, NYC, October, 1945
+- tracks 26-47: Studio 6B, Radio City, NYC, May 12, 1945
+- tracks 48-52: New Zanzibar, NYC, November, 1945
+
 [Volume 4](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-4)
 
 [Volume 5](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-5)

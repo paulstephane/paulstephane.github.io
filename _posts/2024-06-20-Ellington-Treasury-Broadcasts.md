@@ -1,5 +1,58 @@
 Here is a chapter from Eddie Lambert's **Duke Ellington: A Listener's Guide** in which he gives his appreciation of Duke Ellington's Treasury Broadcasts. The broadcasts are available on 50 CDs issued between 2000 and 2018. 
 
+Storyville Record CDs (with link to Bandcamp):
+
+[Volume 1](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-1)
+
+[Volume 2](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-2)
+
+[Volume 3](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-3)
+
+[Volume 4](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-4)
+
+[Volume 5](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-5)
+
+[Volume 6]https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-6)
+
+[Volume 7](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-7)
+
+[Volume 8](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-8)
+
+[Volume 9](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-9)
+
+[Volume 10](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-10)
+
+[Volume 11](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-11)
+
+[Volume 12](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-12)
+
+[Volume 13](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-13)
+
+[Volume 14](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-14)
+
+[Volume 15](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-15)
+
+[Volume 16](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-16)
+
+[Volume 17](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-17)
+
+[Volume 18](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-18)
+
+[Volume 19](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-19)
+
+[Volume 20](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-20)
+
+[Volume 21](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-21)
+
+[Volume 22](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-22)
+
+[Volume 23](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-23)
+
+[Volume 24](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-24)
+
+[Volume 25](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-25)
+
+
 ---
 
 

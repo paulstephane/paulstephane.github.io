@@ -25,7 +25,14 @@ Storyville Record CDs (with link to Bandcamp):
 
 [Volume 4](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-4)
 
+- tracks 1-22: Paradise Theatre, Detroit, May 9, 1945
+- tracks 23-30: New Zanzibar, NYC, October 10, 1945
+- tracks 31-51: Regal Theatre, Chicago, May 26, 1945
+  
 [Volume 5](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-5)
+
+- tracks 1-20: Percy-Jones Center, Battle Creek, Michigan, June 2, 1945
+- tracks 21-50: New Zanzibar, NYC, September 18, 1945
 
 [Volume 6](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-6)
 

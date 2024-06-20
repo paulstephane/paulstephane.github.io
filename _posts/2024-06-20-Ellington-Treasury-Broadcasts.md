@@ -37,6 +37,10 @@ Storyville Record CDs (with link to Bandcamp):
 
 [Volume 6](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-6)
 
+- tracks 1-17: Franklin Gardens, Evansville, Indiana, June 16, 1945
+- tracks 18-27: New Zanzibar, NYC, October 28, 1945
+- tracks 28-48: Palace Theatre, Akron, Ohio, June 23, 1945
+
 [Volume 7](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-7)
 
 [Volume 8](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-8)

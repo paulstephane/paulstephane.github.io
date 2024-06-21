@@ -5,7 +5,7 @@ Storyville Record CDs (with links to Bandcamp):
 [Volume 1](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-1)
 
 - tracks 1-16: 400 Restaurant, NYC, April 7, 1945
-- tracks 17-21: Studio 6B, Radio City, May 1, 1943
+- tracks 17-21: Radio City Studios, May 1, 1943
 - tracks 22-29: 400 Restaurant, NYC, April 14, 1945
 - tracks 30-45: Treasury Star Parade broadcast, NYC, June 1943
 
@@ -20,7 +20,7 @@ Storyville Record CDs (with links to Bandcamp):
 
 - tracks 1-20: Adams Theatre, Newark, May 5, 1945
 - tracks 21-25: New Zanzibar, NYC, October, 1945
-- tracks 26-47: Studio 6B, Radio City, NYC, May 12, 1945
+- tracks 26-47: Radio City Studios, NYC, May 12, 1945
 - tracks 48-52: New Zanzibar, NYC, November, 1945
 
 [Volume 4](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-4)
@@ -45,7 +45,7 @@ Storyville Record CDs (with links to Bandcamp):
 
 - tracks 1-17: Apollo Theathre, NYC, June 30, 1945
 - tracks 18-23: New Zanzibar, NYC, October 11, 1945
-- tracks 24-38: Radio City, NYC, July 7, 1945
+- tracks 24-38: Radio City Studios, NYC, July 7, 1945
 - tracks 39-44: New Zanzibar, NYC, October 7, 1945
 
 [Volume 8](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-8)
@@ -68,6 +68,11 @@ Storyville Record CDs (with links to Bandcamp):
 - tracks 46-51: 400 Restaurant, NYC, May 4, 1945
 
 [Volume 11](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-11)
+
+- tracks 1-20: Fieldston Ballroom, Marshfield, MA, August 25, 1945
+- tracks 21-24: New Zanzibar, NYC, October 7, 1945
+- tracks 25-42: Earle Theatre, Philadelphia, September 1, 1945
+- tracks 43-47: New Zanzibar, NYC, October 18, 1945
 
 [Volume 12](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-12)
 

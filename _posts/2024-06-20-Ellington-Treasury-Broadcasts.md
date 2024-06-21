@@ -157,11 +157,23 @@ Storyville Record CDs (with links to Bandcamp):
 
 - tracks 1-22: Meadowbrook Garden Café, Culver City, California, August 24, 1946
 - tracks 23-26: Hurricane Restaurant, NYC, August 26, 1943
-- tracks 27-53: Lincoln Theatre, Los Angeles, August 31, 1946
-
+- tracks 27-47: Lincoln Theatre, Los Angeles, August 31, 1946
+- tracks 48-53: Radio City studios, NYC, October 5, 1946
+  
 [Volume 24](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-24)
 
+- tracks 1-9: Blue Note, Chicago, June 24, 1953
+- tracks 10-18:  Blue Note, Chicago, July 1, 1953
+- tracks 19-24: Hurricane Restaurant, NYC, April 1, 1944
+- tracks 25-43: Blue Note, Chicago, June 1953
+
 [Volume 25](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-25)
+
+- tracks 1-9: Blue Note, Chicago, June 1953
+- tracks 10-18: Hurricane Restaurant, NYC, June 6, 1943
+- tracks 19-22: Hurricane Restaurant, NYC, September 23, 1943
+- tracks 23-27: Hurricane Restaurant, NYC, April 22, 1944
+- tracks 28-34: Hurricane Restaurant, NYC, May 5, 1944
 
 
 ---

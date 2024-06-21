@@ -110,6 +110,13 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 17](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-17)
 
+- tracks 1-18: Radio City studios, November 24, 1945
+- tracks 19-22: Hurricane Restaurant, NYC, April 19, 1944
+- tracks 23-28: Hurricane Restaurant, NYC, April 20, 1944
+- tracks 29-41: Civic Opera House, Chicago, January 20, 1946
+- tracks 42-44: Hurricane Restaurant, NYC, April 21, 1944
+- tracks 45-47: Hurricane Restaurant, NYC, April 27, 1944
+
 [Volume 18](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-18)
 
 [Volume 19](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-19)

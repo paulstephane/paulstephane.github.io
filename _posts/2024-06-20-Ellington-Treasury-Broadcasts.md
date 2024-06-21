@@ -141,6 +141,11 @@ Storyville Record CDs (with links to Bandcamp):
   
 [Volume 21](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-21)
 
+- tracks 1-14: Million Dollar Theatre, Los Angeles, July 6, 1946
+- tracks 15-17: El Patio Ballroom, Denver, July 14, 1942
+- tracks 18-32: Orpheum Theatre, San Diego, July 27, 1946
+- tracks 33-35: Trianon Ballroom, South Gate, CA, May 2, 1942
+
 [Volume 22](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-22)
 
 [Volume 23](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-23)

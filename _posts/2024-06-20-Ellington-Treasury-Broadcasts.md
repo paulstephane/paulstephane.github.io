@@ -93,7 +93,11 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 15](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-15)
 
-
+- tracks 1-17: Radio City studios, NYC, October 27, 1945
+- track 18: Hurricane Restaurant, NYC, May 23, 1943
+- tracks 19-22: Hurricane Restaurant, NYC, May 28, 1943
+- tracks 23-25: Hurricane Restaurant, NYC, June 6, 1943
+- tracks 26-47: Radio City studios, NYC, November 3, 1945
 
 [Volume 16](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-16)
 

@@ -170,7 +170,7 @@ Storyville Record CDs (with links to Bandcamp):
 [Volume 25](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-25)
 
 - tracks 1-9: Blue Note, Chicago, June 1953
-- tracks 10-18: Hurricane Restaurant, NYC, June 6, 1943
+- tracks 10-18: Hurricane Restaurant, NYC, June 6, 1943 (bonus material)
 - tracks 19-22: Hurricane Restaurant, NYC, September 23, 1943
 - tracks 23-27: Hurricane Restaurant, NYC, April 22, 1944
 - tracks 28-34: Hurricane Restaurant, NYC, May 5, 1944

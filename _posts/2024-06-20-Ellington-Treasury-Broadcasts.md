@@ -127,6 +127,12 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 19](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-19)
 
+
+- tracks 1-15: Dartmouth College, Hanover, NH, May 4, 1946
+- tracks 16-21: Hurricane Restaurant, NYC, September 3, 1943
+- tracks 22-42: Radio City studios, NYC, May 18 & 25, 1946
+- tracks 43-49: Hurricane Restaurant, NYC, September 1, 1943
+
 [Volume 20](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-20)
 
 [Volume 21](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-21)

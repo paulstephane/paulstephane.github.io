@@ -76,6 +76,11 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 12](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-12)
 
+- tracks 1-16: Radio City Studios, NYC, September 8, 1945
+- tracks 17-23: New Zanzibar, NYC, October 1, 1945
+- tracks 24-36: Radio City Studios, NYC, September 15, 1945
+
+
 [Volume 13](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-13)
 
 [Volume 14](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-14)

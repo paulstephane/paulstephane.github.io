@@ -148,6 +148,11 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 22](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-22)
 
+- tracks 1-16: Golden Gate Theater, San Francisco, August 3,1946
+- tracks 17-20: El Patio Ballroom, Denver, on July 15, 1942
+- tracks 21-36: Meadowbrook, Culver City, California, August 17, 1946
+- tracks 37-39: Hurricane Restaurant, NYC, August 21, 1943
+
 [Volume 23](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-23)
 
 [Volume 24](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-24)

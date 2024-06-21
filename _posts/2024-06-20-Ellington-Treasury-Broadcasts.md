@@ -119,6 +119,12 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 18](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-18)
 
+- tracks 1-3: KABC Studios, San Antonio, Texas, April 13, 1946
+- tracks 4-16: KABC Studios, San Antonio, Texas, April 20, 1946
+- tracks 17-24: Hurricane Restaurant, NYC, April 28, 1944
+- tracks 25-41: Municipal Auditorium, Worcester, MA, April 27, 1946
+- tracks 42-49: Hurricane Restaurant, NYC, May 12, 1944
+
 [Volume 19](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-19)
 
 [Volume 20](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-20)

@@ -43,7 +43,7 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 7](https://storyvillerecords.bandcamp.com/album/treasury-shows-vol-7)
 
-- tracks 1-17: Apollo Theathre, NYC, June 30, 1945
+- tracks 1-17: Apollo Theatre, NYC, June 30, 1945
 - tracks 18-23: New Zanzibar, NYC, October 11, 1945
 - tracks 24-38: Radio City Studios, NYC, July 7, 1945
 - tracks 39-44: New Zanzibar, NYC, October 7, 1945

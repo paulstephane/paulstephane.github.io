@@ -127,7 +127,6 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 19](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-19)
 
-
 - tracks 1-15: Dartmouth College, Hanover, NH, May 4, 1946
 - tracks 16-21: Hurricane Restaurant, NYC, September 3, 1943
 - tracks 22-42: Radio City studios, NYC, May 18 & 25, 1946
@@ -135,6 +134,11 @@ Storyville Record CDs (with links to Bandcamp):
 
 [Volume 20](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-20)
 
+- tracks 1-12: Paramount Theatre, NYC, June 1, 1946
+- tracks 13-17: Hurricane Restaurant, NYC, September 10, 1943
+- tracks 18-37: WEEU Sudios, Reading, PA, June 8, 1946
+- tracks 38-42: Hurricane Restaurant, NYC, September 7, 1943
+  
 [Volume 21](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-21)
 
 [Volume 22](https://storyvillerecords.bandcamp.com/album/the-treasury-shows-vol-22)

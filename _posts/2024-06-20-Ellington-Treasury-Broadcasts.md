@@ -1,7 +1,7 @@
 *Ellington's Treasury Broadcasts: Eddie Lambert's introduction to this daunting collection*
 
 
-Here is a chapter from Eddie Lambert's **Duke Ellington: A Listener's Guide** in which he gives his appreciation of Duke Ellington's Treasury Broadcasts. The broadcasts are available on 50 CDs issued between 2000 and 2018. The dates referred to in Eddie Lambert's comments can be linked back to the corresponding CDs
+Here is a chapter from Eddie Lambert's **Duke Ellington: A Listener's Guide** in which he gives his appreciation of Duke Ellington's Treasury Broadcasts. The broadcasts are available on 50 CDs issued between 2000 and 2018. To facilitate sampling the various tracks discussed by Eddie Lambert, I have put the dates in bold in his comments and included the list of all CDs with the corresponding recording dates.
 
 Storyville Record CDs (with links to Bandcamp):
 

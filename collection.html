@@ -199,6 +199,12 @@ tr:hover {cursor: pointer;}
 
 </body >
 
+<script src="./mpc.umd.min.js"></script>
+<script>
+  const mpc = new MPC();
+  mpc.connectTCP('192.168.1.179', 6644);
+</script>
+  
 <script src="https://cdn.jsdelivr.net/npm/alasql@1.7"></script>
 <script>
     

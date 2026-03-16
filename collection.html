@@ -199,9 +199,8 @@ tr:hover {cursor: pointer;}
 
 </body >
 
-<script src="./mpc.min.js"></script>
 <script type="module">
-  import { MPC } from './mpc.min.mjs';
+  import { MPC } from 'https://github.com/paulstephane/paulstephane.github.io/blob/66ce068ff8559834f0ad41c77a75eac30a921300/mpc.min.mjs';
   const mpc = new MPC();
   mpc.connectTCP('192.168.1.179', 6644).then(async () => {
     mpc.currentPlaylist.add('file:///mnt/music/0001567008731/0001567008731-0001.wav');
